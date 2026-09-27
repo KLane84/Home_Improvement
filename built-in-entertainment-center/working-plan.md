@@ -10,34 +10,41 @@ Living document. Update as measurements, aesthetics, and follow-up answers land.
 
 ## Concept (short)
 
-Frame three existing pieces (dark center media console + two white flanking cabinets) into one wall-to-wall (or bay-filling) built-in entertainment center, integrating the already wall-mounted TV and soundbar, with hidden cable routing and trim that meets existing crown/base.
+Encases three existing pieces (dark center media console + two white flanking cabinets) in **plywood** to create one continuous built-in entertainment wall, finished entirely in **White Dove**, integrating the wall-mounted TV and soundbar with hidden cable routing and trim that meets existing crown/base.
+
+## Locked design decisions
+
+| Decision | Choice | Notes |
+|---|---|---|
+| Structure look | Plywood encasement | Gives freestanding furniture the built-in silhouette |
+| Finish color | White Dove | Brand / sheen TBD (follow-up) |
+| Furniture set | 3 units | Center dark console + 2 white flanks (CS-04) |
 
 ## What photos establish so far
 
 - Center console is the visual/structural anchor under the TV (CS-01, CS-03)
 - Intended composition is a **three-unit dry-fit** (CS-04), not the console alone
-- Depth mismatch likely: center unit deeper than white side cabinets (CS-04)
-- Base of center unit has decorative molding + corner wear — plan repair vs. conceal (CS-02)
+- Depth mismatch likely: center unit deeper than white side cabinets (CS-04) — plywood faces will need a common front plane
+- Base of center unit has decorative molding + corner wear — concealable once encased (CS-02)
 - Site has white crown, white baseboard, textured ceiling, round HVAC vent above right side (CS-03)
-- Surface cable raceway today → replace with integrated chase in framing
+- Surface cable raceway today → replace with integrated chase inside plywood surround
 
 ## Phases (planned)
 
-1. **Discover** — ingest measurements & aesthetics workup; answer follow-up questions  
-2. **Design lock** — layout, reveals, TV height, access strategy, power/AV paths  
-3. **Materials** — cut list, buy list, hardware, finish  
-4. **Dry-fit** — furniture in bay; verify clearances and scribes  
-5. **Build** — framing / face / mount backing / cable routes  
-6. **Finish** — trim, caulk, paint, hardware, final cable dress  
-7. **Commission** — mount TV, device layout, ventilation check, photo documentation
+1. **Discover** — answer open questions in [YOUR-TODOS.md](./YOUR-TODOS.md); fill measurements  
+2. **Design lock** — plywood box layout, common face plane, TV opening, access panels, power/AV paths  
+3. **Materials** — plywood grade/sheet count, trim, fasteners, White Dove product + primer  
+4. **Dry-fit** — furniture in place; verify depths, heights, and scribe needs before permanent skins  
+5. **Build** — carcass/frame, plywood encasement, TV backing, cable chase  
+6. **Finish** — fill, caulk, prime, paint White Dove, hardware, final cable dress  
+7. **Commission** — remount/confirm TV, device layout, ventilation check, photo documentation
 
 ## Open blockers
 
-- Full measurements not yet pasted into `measurements.md`
-- Aesthetics workup not yet pasted into `aesthetics.md`
-- Follow-up questions unanswered in `FOLLOW-UP-QUESTIONS.md`
-- Confirm final paint/finish strategy for mismatched dark center + white flanks
+- See checklist of unanswered items: [YOUR-TODOS.md](./YOUR-TODOS.md)
+- White Dove brand + sheen not confirmed
+- Measurements not yet in `measurements.md`
 
 ## Next action
 
-Paste measurements (wall width, each unit W×H×D, TV size/height) and aesthetic intent (paint all one color vs. keep contrast). Then lock layout against checklist + photos.
+Work through [YOUR-TODOS.md](./YOUR-TODOS.md) (especially Q1–Q5). Parallel: confirm White Dove brand/sheen.

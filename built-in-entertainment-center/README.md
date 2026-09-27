@@ -15,6 +15,7 @@ Project docs for framing existing furniture into a built-in home entertainment c
 | [measurements.md](./measurements.md) | Drop site, furniture, and clearances here |
 | [aesthetics.md](./aesthetics.md) | Drop finish, style, and visual intent here |
 | [working-plan.md](./working-plan.md) | Living working plan (filled as details arrive) |
+| [YOUR-TODOS.md](./YOUR-TODOS.md) | Open questions / answers still needed from you |
 | [photos/](./photos/) | Categorized current-state & planning photos (see index) |
 
 ## How we'll use this repo

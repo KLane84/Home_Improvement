@@ -59,8 +59,9 @@ Pick a primary hierarchy and a secondary one, for example:
 
 **Why it matters:** Aesthetics decisions (face frame vs. frameless, open shelves vs. doors, paint vs. stain) conflict until hierarchy is explicit.
 
-**Your answer:**  
-_TBD — awaiting workup / discussion_
+**Your answer (partial — locked so far):**  
+Millwork-forward: plywood encasement painted **White Dove** so the wall reads as one built-in. Existing furniture is concealed structure, not a contrasting feature.  
+**Still open:** TV niche detail (flush vs. framed), shelves vs. closed panels above/beside TV, soundbar visible vs. hidden.
 
 ---
 

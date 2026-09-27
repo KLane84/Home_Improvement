@@ -81,14 +81,15 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 ## 7. Aesthetics & finish
 
-- [ ] Style target (modern flush, traditional face-frame, shaker, board-and-batten, etc.)
-- [ ] Match existing room: paint color, stain, trim profile, door style
-- [ ] Visible edges: plywood edge banding, solid wood nosing, or paint-grade MDF
+- [x] Style target — plywood encasement for built-in look; paint-grade White Dove
+- [ ] Match existing room: confirm White Dove vs. light-grey walls; trim profile continuity
+- [ ] Visible edges: plywood edge banding, solid wood nosing, or filled/painted ply edge
 - [ ] Hardware (pulls, hinges) or handle-less design
 - [ ] TV treatment: flush recess, slight shadow line, or framed like a picture
 - [ ] Lighting mood (warm wash, cove, toe-kick glow) — or none
-- [ ] Sample board / mood images linked or stored in `aesthetics.md`
+- [x] Sample board / mood images — current-state photos stored; White Dove brand TBD
 - [ ] Finish sequence: paint before install vs. after scribe/caulk
+- [ ] Confirm White Dove brand / product line / sheen before purchase
 
 ---
 
