@@ -40,6 +40,15 @@ Paste the full measurement workup here. Prefer finished (paint-to-paint) dimensi
 
 ## Photos & sketches
 
-- Front elevation:
+Indexed under [photos/README.md](./photos/README.md).
+
+| Ref | Path | Role |
+|---|---|---|
+| CS-01 | `photos/current-state/overview/01-center-console-tv-angled.jpg` | Center console + TV angled |
+| CS-02 | `photos/current-state/furniture-detail/02-console-base-corner-wear.jpg` | Base molding / wear detail |
+| CS-03 | `photos/current-state/overview/03-entertainment-wall-wide.jpg` | Full wall context |
+| CS-04 | `photos/current-state/layout-mockup/04-three-unit-dry-fit.jpg` | Three-unit dry-fit layout |
+
+- Front elevation sketch:
 - Plan (top-down):
 - Detail / problem spots:

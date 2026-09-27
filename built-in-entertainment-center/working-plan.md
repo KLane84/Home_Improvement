@@ -4,12 +4,22 @@ Living document. Update as measurements, aesthetics, and follow-up answers land.
 
 ## Current status
 
-**Status:** Planning scaffold  
-**Build-ready:** No
+**Status:** Planning — current-state photos ingested  
+**Build-ready:** No  
+**Photo index:** [photos/README.md](./photos/README.md)
 
 ## Concept (short)
 
-Frame existing furniture into a wall bay to create a built-in home entertainment center — millwork surround + integrated TV/media zone, without a full custom cabinet build from scratch.
+Frame three existing pieces (dark center media console + two white flanking cabinets) into one wall-to-wall (or bay-filling) built-in entertainment center, integrating the already wall-mounted TV and soundbar, with hidden cable routing and trim that meets existing crown/base.
+
+## What photos establish so far
+
+- Center console is the visual/structural anchor under the TV (CS-01, CS-03)
+- Intended composition is a **three-unit dry-fit** (CS-04), not the console alone
+- Depth mismatch likely: center unit deeper than white side cabinets (CS-04)
+- Base of center unit has decorative molding + corner wear — plan repair vs. conceal (CS-02)
+- Site has white crown, white baseboard, textured ceiling, round HVAC vent above right side (CS-03)
+- Surface cable raceway today → replace with integrated chase in framing
 
 ## Phases (planned)
 
@@ -26,7 +36,8 @@ Frame existing furniture into a wall bay to create a built-in home entertainment
 - Full measurements not yet pasted into `measurements.md`
 - Aesthetics workup not yet pasted into `aesthetics.md`
 - Follow-up questions unanswered in `FOLLOW-UP-QUESTIONS.md`
+- Confirm final paint/finish strategy for mismatched dark center + white flanks
 
 ## Next action
 
-Paste the full measurements and intended aesthetics into the linked docs (or a single message). Then we will flesh this working plan into a detailed build sequence and cut list.
+Paste measurements (wall width, each unit W×H×D, TV size/height) and aesthetic intent (paint all one color vs. keep contrast). Then lock layout against checklist + photos.
