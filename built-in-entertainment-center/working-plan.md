@@ -1,50 +1,74 @@
 # Working Plan
 
-Living document. Update as measurements, aesthetics, and follow-up answers land. Do not mark **Build-ready** until `PLANNING-CHECKLIST.md` section 12 is complete.
+Living document. Do not mark **Build-ready** until `PLANNING-CHECKLIST.md` section 12 is complete and open items in `YOUR-TODOS.md` are closed enough for a cut list.
 
 ## Current status
 
-**Status:** Planning — current-state photos ingested  
+**Status:** Planning — major answers recorded; dead-space options open  
 **Build-ready:** No  
-**Photo index:** [photos/README.md](./photos/README.md)
+**Photo index:** [photos/README.md](./photos/README.md)  
+**Your open items:** [YOUR-TODOS.md](./YOUR-TODOS.md)
 
 ## Concept (short)
 
-Encases three existing pieces (dark center media console + two white flanking cabinets) in **plywood** to create one continuous built-in entertainment wall, finished entirely in **White Dove**, integrating the wall-mounted TV and soundbar with hidden cable routing and trim that meets existing crown/base.
+Permanently encase three base units (65" center console + two 27" Lowe's cabinets) on 4" ladder risers, skin in **¾" plywood**, add a **full-span countertop**, and build **27" × 12" shelving towers** to ceiling trim — all painted **Benjamin Moore White Dove** (semi or high gloss). Relocate power up behind the TV; limited in-cabinet tech (DVD/Blu-ray).
 
 ## Locked design decisions
 
 | Decision | Choice | Notes |
 |---|---|---|
-| Structure look | Plywood encasement | Gives freestanding furniture the built-in silhouette |
-| Finish color | White Dove | Brand / sheen TBD (follow-up) |
-| Furniture set | 3 units | Center dark console + 2 white flanks (CS-04) |
+| Encasement | Permanent plywood skin | Units do not slide out |
+| Access | Through cabinet interiors | Power at/near cabinet tops |
+| Countertop | Full span across all three | Material TBD |
+| Finish | Benjamin Moore White Dove | Semi or high gloss TBD |
+| Uppers | Open shelving towers ×2 | 27" W × 12" D to ceiling trim |
+| Risers | 4" ladder frames | Center 65×18; sides 27×15 |
+| Labor | Fully DIY | Budget-friendly materials |
+| Side cabinets cost | ~$75 used | Center console already owned |
 
-## What photos establish so far
+## Layout numbers (summary)
 
-- Center console is the visual/structural anchor under the TV (CS-01, CS-03)
-- Intended composition is a **three-unit dry-fit** (CS-04), not the console alone
-- Depth mismatch likely: center unit deeper than white side cabinets (CS-04) — plywood faces will need a common front plane
-- Base of center unit has decorative molding + corner wear — concealable once encased (CS-02)
-- Site has white crown, white baseboard, textured ceiling, round HVAC vent above right side (CS-03)
-- Surface cable raceway today → replace with integrated chase inside plywood surround
+| Item | Dimension |
+|---|---|
+| Wall width | 159¼" |
+| Composite built-in | 131" |
+| Flank clearance each side | 14⅛" |
+| Carcass sum (27+65+27) | 119" → ~12" internal fillers/gaps |
+| Center depth | 18" (drives common front / counter depth) |
+| Side depth | ~15" base / 12" uppers |
+
+Full tables: [measurements.md](./measurements.md)
+
+## Open design forks
+
+Evaluate and pick from [dead-space-options.md](./dead-space-options.md):
+
+1. **Flanks (14⅛")** — fillers, niches, wall-to-wall boxes, or intentional reveal  
+2. **TV field** — flat panel, shelves, mantel ledge, picture-frame recess  
+3. **Internal ~12"** — where gaps live between the three base units under the countertop
 
 ## Phases (planned)
 
-1. **Discover** — answer open questions in [YOUR-TODOS.md](./YOUR-TODOS.md); fill measurements  
-2. **Design lock** — plywood box layout, common face plane, TV opening, access panels, power/AV paths  
-3. **Materials** — plywood grade/sheet count, trim, fasteners, White Dove product + primer  
-4. **Dry-fit** — furniture in place; verify depths, heights, and scribe needs before permanent skins  
-5. **Build** — carcass/frame, plywood encasement, TV backing, cable chase  
-6. **Finish** — fill, caulk, prime, paint White Dove, hardware, final cable dress  
-7. **Commission** — remount/confirm TV, device layout, ventilation check, photo documentation
+1. **Discover** — ~~answers~~; finish dead-space pick + remaining measurements  
+2. **Design lock** — common face plane, countertop blank, tower elevations, cable/outlet paths  
+3. **Estimate** — sheet goods, 2×4s, trim, primer, White Dove, fasteners (budget pass)  
+4. **Dry-fit** — risers + units; verify 131" / gaps; tape flank options on wall  
+5. **Build** — risers → place units → plywood encasement → countertop → towers → TV outlet move → chase  
+6. **Finish** — fill, caulk, prime, paint White Dove, trim to match existing white  
+7. **Commission** — TV power, DVD placement, optional lighting, photo documentation
 
-## Open blockers
+## Rough budget frame (WIP)
 
-- See checklist of unanswered items: [YOUR-TODOS.md](./YOUR-TODOS.md)
-- White Dove brand + sheen not confirmed
-- Measurements not yet in `measurements.md`
+| Bucket | Ballpark | Status |
+|---|---|---|
+| Used side cabinets | ~$75 | Spent |
+| Center console | Owned | — |
+| Tools (saws) | $200–$400 | Planned / maybe sourced |
+| 2×4 + ¾" plywood + 1×2/trim + paint | Unknown | Needs estimate |
+| Electrical materials (box, cable, devices) | Unknown | Small but code-sensitive |
 
 ## Next action
 
-Work through [YOUR-TODOS.md](./YOUR-TODOS.md) (especially Q1–Q5). Parallel: confirm White Dove brand/sheen.
+1. Pick preferred **dead-space options** (even a shortlist of 2 to mock with tape).  
+2. Measure floor-to-ceiling at L/C/R and confirm gap split inside the 131".  
+3. Then draft elevation + first materials estimate.

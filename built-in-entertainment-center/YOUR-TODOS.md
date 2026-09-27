@@ -1,24 +1,29 @@
 # Your to-dos — questions still needed
 
-Answer these so the working plan can go from scaffold to build-ready. Check off in this file or reply in chat; either works.
+Answered items stay checked for the record. Open items are what we still need before a build-ready cut list.
 
 ## High-priority (the five planning questions)
 
-- [ ] **Q1 — Service access:** After plywood encasement, can units slide out, or are they permanent? How do you reach cables / swap TV or gear without cutting the surround?
-- [ ] **Q2 — Power, signal & heat:** What devices live here (TV, soundbar, consoles, etc.), which outlets they use, and how cables/ventilation run once everything is boxed in?
-- [ ] **Q3 — Real dimensions & geometry:** Wall width/height/depth; each unit W×H×D; TV size and mount height; how out-of-square the wall/floor is; max depth into the room
-- [ ] **Q4 — Visual details inside the White Dove shell:** TV niche treatment (flush panel vs. framed opening), open shelves vs. closed above/beside TV, soundbar visible vs. concealed
-- [ ] **Q5 — DIY scope & budget stop-loss:** What you will build/paint yourself vs. hire out, and the budget ceiling before you simplify
+- [x] **Q1 — Service access:** Permanent encasement; access via cabinets; power routed to cabinet tops; full-span countertop
+- [x] **Q2 — Power, signal & heat:** TV outlet relocated up behind TV; DVD/Blu-ray in cabinet; lighting undecided
+- [x] **Q3 — Real measurements:** Wall 159¼"; units + risers + uppers recorded in `measurements.md` (ceiling height / out-of-square still TBD)
+- [x] **Q4 — Visual details:** Shelves above side cabinets locked; dead space / TV field still evaluating
+- [x] **Q5 — DIY scope & budget:** Fully DIY; ~$75 cabinets so far; $200–$400 tools; budget-friendly 2×4 + ¾" ply + trim
 
-_Full wording and “why it matters” live in [FOLLOW-UP-QUESTIONS.md](./FOLLOW-UP-QUESTIONS.md)._
+## Aesthetics follow-ups
 
-## Aesthetics follow-ups (partially decided)
+- [x] Confirm **White Dove** brand — Benjamin Moore White Dove
+- [ ] Lock sheen: semi-gloss vs. high-gloss (sample)
+- [x] Trim strategy — white to match existing; White Dove may be close enough (sample to confirm)
 
-- [ ] Confirm **White Dove** brand / product line and sheen (paint chip / store match)
-- [ ] Decide trim strategy: repaint existing crown/base to White Dove, or leave existing white trim and only paint new plywood
+## Still open before materials buy
 
-## Nice-to-have before materials buy
-
-- [ ] Photos with tape measure in frame (wall width, unit heights, depths)
-- [ ] Whether side cabinets get raised/shimmed to align tops with the center console
-- [ ] Hardware plan (keep brass pulls on center, paint/replace, or new pulls on all doors)
+- [ ] Choose **dead-space options** (flanks 14⅛", TV field, ~12" between-unit fillers) — see [dead-space-options.md](./dead-space-options.md)
+- [ ] Floor-to-ceiling height at left / center / right
+- [ ] Confirm how the ~12" inside the 131" envelope is split between the three base units
+- [ ] Countertop material, thickness, depth, overhang
+- [ ] TV exact size + floor-to-center height (remeasure after 4" risers)
+- [ ] Soundbar: on countertop vs. integrated / hidden
+- [ ] Lighting: yes/no and rough placement
+- [ ] Rough material cost estimate (plywood sheets, 2×4s, trim, primer, White Dove, fasteners)
+- [ ] Outlet relocation plan detail (which existing outlet moves; in-wall rated cable if needed)

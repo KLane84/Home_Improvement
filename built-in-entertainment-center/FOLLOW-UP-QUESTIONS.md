@@ -15,7 +15,9 @@ Framing furniture in often locks in mistakes around access. Clarify:
 **Why it matters:** A beautiful surround that requires demolition to swap an HDMI cable is not a finished plan.
 
 **Your answer:**  
-_TBD — awaiting workup / discussion_
+**Permanent** plywood encasement — units do not slide out.  
+Cable / gear access is **through cabinet interiors**. Outlets will be relocated and/or extensions routed so devices can be plugged in **at/near the top of the cabinets**. A **full-span countertop** runs across both side cabinets and the center console.  
+TV stays wall-mounted (serviceable from the front); limited in-cabinet gear (DVD/Blu-ray).
 
 ---
 
@@ -30,7 +32,14 @@ List every powered device and sketch the path for:
 **Why it matters:** Most DIY built-in regrets are thermal throttling, unreachable plugs, or ugly surface raceways added after the fact.
 
 **Your answer:**  
-_TBD — awaiting workup / discussion_
+| Device | Power plan | Notes |
+|---|---|---|
+| Wall-mounted TV | Relocate / add outlet **up behind TV** | Primary power move |
+| Soundbar (assumed still in play) | Top of cabinets / countertop zone via routed power | Confirm final placement |
+| DVD / Blu-ray player | Inside a cabinet; limited heat load | Access via cabinet doors |
+| Accent / under lighting | Undecided | Leave chase / power stub if possible |
+
+Ventilation: low heat load for now; keep cabinet backs / grommets open enough for DVD player. No AVR planned.
 
 ---
 
@@ -45,7 +54,14 @@ Beyond overall width/height, capture:
 **Why it matters:** Furniture is rectangular; houses are not. The gap strategy (scribe vs. filler vs. reveal) drives trim cost and look more than the furniture brand does.
 
 **Your answer:**  
-_TBD — awaiting workup / discussion_
+See [measurements.md](./measurements.md) for full numbers. Summary:
+
+- Full wall width: **159¼"**
+- Composite built-in width: **131"**
+- Empty clearance each side: **14⅛"** (dead-space options — see [dead-space-options.md](./dead-space-options.md))
+- Max furniture depth today: center **18"** (+ plywood face / countertop overhang TBD)
+- Out-of-square / floor slope: **not yet measured** — check at dry-fit
+- Side cabinets shallower (~15") than center (18") — common front plane via plywood + countertop
 
 ---
 
@@ -59,9 +75,11 @@ Pick a primary hierarchy and a secondary one, for example:
 
 **Why it matters:** Aesthetics decisions (face frame vs. frameless, open shelves vs. doors, paint vs. stain) conflict until hierarchy is explicit.
 
-**Your answer (partial — locked so far):**  
-Millwork-forward: plywood encasement painted **White Dove** so the wall reads as one built-in. Existing furniture is concealed structure, not a contrasting feature.  
-**Still open:** TV niche detail (flush vs. framed), shelves vs. closed panels above/beside TV, soundbar visible vs. hidden.
+**Your answer:**  
+Millwork-forward: plywood encasement + **Benjamin Moore White Dove** (semi or full gloss).  
+**Built-in shelves** above the side cabinetry (upper towers 27" W × 12" D to ceiling trim).  
+**Dead space** (esp. 14⅛" each side of the 131" composite, and/or center zone around TV) — **not decided**; options to evaluate in [dead-space-options.md](./dead-space-options.md).  
+Soundbar: still open (visible on countertop vs. integrated).
 
 ---
 
@@ -76,4 +94,9 @@ Define:
 **Why it matters:** Built-ins scope-creep into electrical, drywall, and custom millwork. A written stop-loss keeps the project finished rather than indefinitely “almost done.”
 
 **Your answer:**  
-_TBD — awaiting workup / discussion_
+**Fully DIY.**  
+Spent so far: **~$75** (used side cabinets); center console already owned.  
+Tools: rough **$200–$400** for saws (may already be found).  
+Materials target: **budget-friendly** — 2×4 framing, ¾" plywood, 1×2 / decorative trim; full material estimate still needed.  
+Electrical note: relocating an outlet behind the TV is in scope for the plan; follow local code / use a qualified person if required in your area.  
+Stop-loss: keep material + paint lean; simplify dead-space treatment and lighting if costs climb.

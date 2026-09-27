@@ -11,12 +11,14 @@ Project docs for framing existing furniture into a built-in home entertainment c
 | Document | Purpose |
 |---|---|
 | [PLANNING-CHECKLIST.md](./PLANNING-CHECKLIST.md) | Master checklist to ensure the plan is complete before build |
-| [FOLLOW-UP-QUESTIONS.md](./FOLLOW-UP-QUESTIONS.md) | Five questions that fill the biggest planning gaps |
-| [measurements.md](./measurements.md) | Drop site, furniture, and clearances here |
-| [aesthetics.md](./aesthetics.md) | Drop finish, style, and visual intent here |
-| [working-plan.md](./working-plan.md) | Living working plan (filled as details arrive) |
-| [YOUR-TODOS.md](./YOUR-TODOS.md) | Open questions / answers still needed from you |
-| [photos/](./photos/) | Categorized current-state & planning photos (see index) |
+| [FOLLOW-UP-QUESTIONS.md](./FOLLOW-UP-QUESTIONS.md) | Five questions (answered) with full write-ups |
+| [measurements.md](./measurements.md) | Site, furniture, risers, clearances |
+| [aesthetics.md](./aesthetics.md) | White Dove / plywood / towers / trim intent |
+| [dead-space-options.md](./dead-space-options.md) | Options to evaluate for flanks + TV field |
+| [budget-estimate.md](./budget-estimate.md) | Spent + WIP materials pricing |
+| [working-plan.md](./working-plan.md) | Living working plan |
+| [YOUR-TODOS.md](./YOUR-TODOS.md) | What’s still open vs. answered |
+| [photos/](./photos/) | Categorized current-state photos |
 
 ## How we'll use this repo
 
