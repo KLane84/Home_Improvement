@@ -7,8 +7,8 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 ## 1. Goals & constraints
 
 - [x] Primary purpose defined — TV wall + storage; DVD/Blu-ray; optional lighting
-- [x] Must-haves — plywood encasement, stepped side counters, upper shelf towers, White Dove, permanent install; side-only 4″ risers
-- [ ] Budget range (materials + finish + contingency ~10–20%) — tools $200–400 known; wood/paint TBD (path-dependent)
+- [x] Must-haves — plywood encasement, stepped side counters, upper shelf towers, White Dove, permanent install; side-only **3½″** risers (2×4 on edge); **Path A**
+- [ ] Budget range (materials + finish + contingency ~10–20%) — tools $200–400 known; Path A qtys sketched; wood/paint $ TBD
 - [x] DIY vs. hire-out — fully DIY
 - [ ] Target completion / sequencing (weekends only, multi-phase OK?)
 - [x] Non-negotiables — permanent box-in; cabinet access for cables; outlet move behind TV; TV stays wall-mounted as today
@@ -17,9 +17,9 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 ## 2. Site survey (the room)
 
-- [x] Wall width **159¼"**; carcass sum **119"**; leftover ≈**40¼"** placed per Path A/B/C
-- [ ] **BLOCKER** — Dead-space Path A / B / C chosen after tape mock-up
-- [ ] Floor-to-ceiling height at left, center, and right (check for slope)
+- [x] Wall width **159¼"**; carcass sum **119"**; Path A open flanks ~**20⅛″** each
+- [x] Dead-space **Path A** chosen (centered group, open flanks, scribe + face skin)
+- [ ] **BLOCKER** — Floor-to-ceiling height at left, center, and right (check for slope) — needed before tower side cuts
 - [ ] Baseboard / crown / casing sizes and how they meet the built-in
 - [ ] Wall type (drywall on studs, plaster, masonry) and stud locations in the bay
 - [x] Floor type — wood-look plank; side risers sit on finish floor
@@ -31,7 +31,7 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 ## 3. Existing furniture inventory
 
-- [x] **BLOCKER** — Center 65×18×~30 (no riser); sides 27×~15×30 on 4″ risers; uppers 27×12×to crown — see `measurements.md`
+- [x] Center 65×18×~30 (no riser); sides 27×~15×30 on **3½″** risers; uppers 27×12×to crown — see `measurements.md`
 - [ ] Material / construction details of center console (solid / veneer / MDF)
 - [ ] Adjustable feet / leveling capability
 - [ ] Back panels: solid, open, or removable? Cable cutouts already present?
@@ -43,21 +43,22 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 ## 4. Layout & fit
 
-- [ ] **BLOCKER** — Scaled sketch / elevation showing **stepped** counters (numbers exist; drawing TBD)
-- [ ] **BLOCKER** — Path A/B/C placement + gap/filler/cubby layout locked
-- [ ] Scribe / filler panel strategy for out-of-square walls under chosen path
+- [x] Scaled elevation — Path A build guide + photoreal mockups in `mockups/` (true-scale SVG synced to lumber stack)
+- [x] Path A placement locked — 119″ centered; ~20⅛″ open flanks; scribe + face skin (no fillers/cubbies)
+- [ ] Scribe / filler panel strategy for out-of-square walls at Path A dry-fit
 - [x] TV location — wall-mounted as today; centered on wall / center console; **no surround buildout**
-- [ ] Viewing height after 4″ side risers + stepped side counters (remeasure)
+- [ ] Viewing height after side risers + stepped side counters (remeasure)
 - [ ] Clearances: doors/drawers must open past plywood faces / counter overhang
-- [x] Depth budget — center 18"; sides ~15"; uppers 12"
+- [x] Depth budget — center 18"; sides ~15"; uppers 12"; counters 16" (1″ front overhang)
+- [ ] **BLOCKER** — Common front-depth plane detail (face skins vs 18″ center vs shallower sides)
 - [x] Uppers — open shelving towers above side cabinets to ceiling trim
-- [x] Symmetry intent — mirrored side cabinets + towers; flanks path-dependent
+- [x] Symmetry intent — mirrored side cabinets + towers; open Path A flanks
 
 ---
 
 ## 5. Structure & framing
 
-- [x] Framing method — side ladder risers + plywood encasement + upper towers (+ fillers/cubbies if Path B/C)
+- [x] Framing method — side ladder risers + plywood encasement + upper towers (Path A — no flank cubbies)
 - [ ] Attachment plan: to studs, to furniture only, or hybrid (and why)
 - [ ] Load path for TV mount (existing — verify; no new surround planned)
 - [x] Service access — **permanent**; access via cabinet doors (not slide-out)
@@ -81,12 +82,12 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 ## 7. Aesthetics & finish
 
-- [x] Style target — plywood encasement; towers; **stepped** side counters; White Dove
+- [x] Style target — plywood encasement; towers; **stepped** side counters; White Dove; Path A
 - [x] Paint brand — **Benjamin Moore White Dove**; sheen semi or high gloss TBD
 - [ ] Match existing white trim — sample White Dove vs. crown/base
 - [ ] Visible edges: banding vs. filled ply vs. decorative trim
 - [ ] Hardware plan (keep brass / knobs vs. unify)
-- [x] TV treatment — leave as mounted (no B1–B4 surround options)
+- [x] TV treatment — leave as mounted (no surround options)
 - [ ] Lighting mood — or none
 - [x] Current-state photo references stored
 - [ ] Finish sequence: paint before install vs. after scribe/caulk
@@ -97,15 +98,16 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 ## 8. Materials & cut list (fill after layout locks)
 
-- [ ] Sheet goods list (¾" plywood sheet counts) — depends on Path A/B/C
-- [ ] Dimensional lumber (2×4 side risers / tower frames)
+- [x] Path A riser / counter / tower cut lists in `build-guides/` (tower **H** still placeholder)
+- [ ] Sheet goods list complete incl. **face skins / end returns** (¾" plywood counts)
+- [x] Dimensional lumber (2×4 side risers) — 3× 8′ sticks in guide
 - [ ] Trim / 1×2 / decorative profiles
-- [ ] Stepped countertop blanks (sides; center optional cap)
+- [x] Stepped countertop blanks (sides 27×16×¾; center optional cap)
 - [ ] Fasteners, construction adhesive, shims, caulk, filler
 - [ ] Hardware (grommets, optional lighting)
 - [ ] Finish materials (primer, White Dove, sheen)
 - [ ] Waste factor applied (sheet goods often +10–15%)
-- [ ] First-pass $ estimate in `budget-estimate.md`
+- [ ] First-pass $ estimate in `budget-estimate.md` (qtys started; $ TBD)
 
 ---
 
@@ -113,7 +115,7 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 - [ ] Measuring: tape, laser, combination square, level (4' + torpedo)
 - [ ] Cutting: circular / track saw, miter saw, jigsaw as needed ($200–400 planned)
-- [ ] Fastening: drill/driver, finish nailer or brad nailer
+- [ ] Fastening: drill/driver, finish nailer or brad nailer; Kreg jig (per manual)
 - [ ] Finish: sander, caulk gun, painter’s tools
 - [ ] Safety: eye/ear protection, dust mask/respirator
 - [ ] Loan / rental list for anything not owned
@@ -123,7 +125,7 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 ## 10. Build sequence & risk
 
 - [x] High-level sequence in `working-plan.md`
-- [ ] Dry-fit plan detail (side risers → units → tape chosen path → confirm gaps + 4″ step)
+- [x] Dry-fit outline — side risers → units as 119″ group → confirm ~20⅛″ flanks + scribe + ~4¼″ step
 - [ ] Critical measurements re-checked after first dry-fit
 - [ ] Failure modes listed (out-of-square, depth mismatch, outlet path, crown meet, step detailing)
 - [x] Reversibility — low (permanent encasement accepted)
@@ -144,19 +146,19 @@ Use this as the gate before buying materials or cutting anything. Mark each item
 
 ## 12. Documentation completeness (repo gate)
 
-- [x] `measurements.md` filled with primary numbers (ceiling height still TBD; side-only risers + stepped counters recorded)
+- [x] `measurements.md` filled with primary numbers (ceiling height still TBD; Path A + 3½″ risers + stepped counters recorded)
 - [x] `aesthetics.md` filled with intent
 - [x] Follow-up questions answered
-- [ ] `working-plan.md` updated to “build-ready” with cut list + sequence
+- [ ] `working-plan.md` updated to “build-ready” with full cut list + sequence
 - [x] Photos stored and indexed
-- [ ] Dead-space Path A/B/C decided (and B.a/b/c if B)
-- [ ] Checklist review pass complete — no open **BLOCKER** items
+- [x] Dead-space **Path A** decided
+- [ ] Checklist review pass complete — no open **BLOCKER** items (ceiling H + depth plane remain)
 
 ---
 
 ## How to run a planning review
 
-1. Walk sections 1–7 with the workup in hand; leave 8–10 blank until Path A/B/C and stepped-counter details lock.
+1. Walk sections 1–7 with the workup in hand; leave remaining $ and face-skin cuts until dry-fit.
 2. Re-check follow-up answers if site numbers change.
 3. Re-check section 12 before calling the plan build-ready.
-4. Only then buy sheet goods and schedule cut day.
+4. Only then buy sheet goods and schedule cut day — **do not cut tower sides until ceiling is measured**.

@@ -2,14 +2,16 @@
 
 All dimensions in inches unless noted. Cabinetry convention used by homeowner: **L = front span (width), W = front-to-back (depth), H = height**.
 
+**Canonical lumber stack:** [build-guides/00-lumber-standards.md](./build-guides/00-lumber-standards.md) — use that over older “4″ riser” shorthand.
+
 ## Room / bay
 
 | Dimension | Value | Notes |
 |---|---|---|
 | Full wall width | **159¼"** (13' 3¼") | End-to-end of entertainment wall |
-| Centered carcass group | **119"** (27+65+27) | **Path A decided** — units grouped tight |
+| Centered carcass group (Path A) | **119"** (27+65+27) | Units grouped tight; scribe ⅛–½″ between |
 | Empty clearance left / right (Path A) | **~20⅛"** each | (159¼ − 119) ÷ 2 — open painted wall, not beadboard |
-| Legacy 131″ / 14⅛″ sketch | Superseded | Old CAD assumed 12″ between units; build uses scribe + face skin instead |
+| Legacy 131″ / 14⅛″ sketch | **Superseded** | Old CAD assumed 12″ between units; build uses scribe + face skin |
 | Floor-to-ceiling (L / C / R) | _TBD_ | Measure for upper tower / crown meet |
 | Wall out-of-square / floor slope | _TBD_ | Check at dry-fit |
 | Max depth into room | Center stack ~18" + face/counter | Side stacks ~15" before common plane |
@@ -22,7 +24,7 @@ All dimensions in inches unless noted. Cabinetry convention used by homeowner: *
 | Side cabinet (Lowe's stock) ×2 | 27" each | ~15" | 30" | ~12" box + doors/hardware + ~2" rear setback |
 | Upper shelving tower ×2 | 27" each | 12" | to ceiling trim | Match lower side cabinet width |
 
-**Sanity check:** 27 + 65 + 27 = **119"** of carcass span. Leftover wall inches = 159¼ − 119 ≈ **40¼"** total — how those inches are placed is Path A / B / C (see dead-space options).
+**Sanity check:** 27 + 65 + 27 = **119"** of carcass span. Path A leftover = 159¼ − 119 ≈ **40¼"** total → **~20⅛″** open flank each side.
 
 ## Base risers (ladder frames) — actual lumber
 
@@ -36,13 +38,15 @@ All dimensions in inches unless noted. Cabinetry convention used by homeowner: *
 - Center ~**30″** (no riser)
 - **Step** ≈ **4¼″**
 
+Do **not** add optional riser top decks unless you intentionally accept a taller side stack (see riser guide).
+
 ## Countertop (stepped) — ¾″ plywood
 
 | Item | Value | Notes |
 |---|---|---|
 | Type | **Stepped** | Sides only |
 | Side counters ×2 | **27″ × 16″ × ¾″** | 1″ front overhang; [02-counters.md](./build-guides/02-counters.md) |
-| Center | Existing top | Lower |
+| Center | Existing top | Lower; optional thin cap TBD |
 
 ## Shelf towers — ¾″ plywood
 
@@ -50,7 +54,8 @@ All dimensions in inches unless noted. Cabinetry convention used by homeowner: *
 |---|---|---|
 | Outer | **27″ × 12″ × H** | H = crown underside − 34¼″ ([03-shelf-towers.md](./build-guides/03-shelf-towers.md)) |
 | Shelves | **25½″ × 12″ × ¾″** | Fit between ¾″ sides |
-| Placeholder H | **~58¼″** | Until ceiling measured |
+| Intermediate shelves | **4** per tower | 5 open bays (locked for cut list) |
+| Placeholder H | **~58¼″** | Until ceiling measured — **do not cut sides yet** |
 
 ## TV & seating
 
@@ -84,6 +89,6 @@ Indexed under [photos/README.md](./photos/README.md).
 | CS-03 | `photos/current-state/overview/03-entertainment-wall-wide.jpg` | Full wall context |
 | CS-04 | `photos/current-state/layout-mockup/04-three-unit-dry-fit.jpg` | Three-unit dry-fit layout |
 
-- Front elevation sketch: _TBD_ (show stepped counters)
-- Plan (top-down): _TBD_ (show Path A/B/C placement)
-- Detail / problem spots: depth mismatch sides vs center; path-dependent flanks; ceiling vent; 4" step
+- Front elevation: [mockups/path-A-build-guide.svg](./mockups/path-A-build-guide.svg) (Path A; lumber-synced stack)
+- Plan (top-down): _TBD_ (show Path A flanks + depths)
+- Detail / problem spots: depth mismatch sides vs center; open flanks; ceiling vent; ~4¼″ step

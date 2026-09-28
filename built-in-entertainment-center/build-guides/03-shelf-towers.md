@@ -35,7 +35,7 @@ Cut lists below use **H = 58¼″**. Recalculate before cutting sides.
 - Two **sides** full height × 12″ deep  
 - **Top** and **bottom** fit **between** sides → width **27″ − ¾″ − ¾″ = 25½″**  
 - Fixed or adjustable **shelves** same as top/bottom: **25½″ × 12″ × ¾″**  
-- Shelf count: **4** open bays → **3** intermediate shelves + bottom + top (top is carcass top). Visible openings: bottom→shelf→shelf→shelf→top = **4** openings with **3** mids, or **5** openings with **4** mids. Photoreal used ~4–5. Use **4 intermediate shelves** (5 openings).
+- Shelf count (**locked for Path A cut list**): **4 intermediate shelves** + bottom + top → **5** open bays. (Do not cut three-mid variants unless you revise this guide and nesting.)
 
 ## Board list — ONE tower (H = 58¼″ placeholder)
 

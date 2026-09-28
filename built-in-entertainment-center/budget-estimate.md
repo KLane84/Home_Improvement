@@ -1,6 +1,6 @@
 # Budget Estimate (WIP)
 
-Keep this lean. Update unit prices when you shop.
+Keep this lean. Update unit prices when you shop. Qtys below match **Path A** cut lists in `build-guides/` (face skins still TBD).
 
 ## Spent
 
@@ -15,19 +15,21 @@ Keep this lean. Update unit prices when you shop.
 | Item | Estimate |
 |---|---|
 | Saws / cutting tools | $200–$400 |
-| Notes | May already be found |
+| Notes | May already be found; Kreg jig assumed per build manual |
 
-## Materials to price (not yet totaled)
+## Materials to price (Path A)
 
 | Item | Spec (planned) | Qty guess | Unit $ | Line $ |
 |---|---|---|---|---|
-| Plywood | ¾" paint-grade (4×8 sheets) | TBD | | |
-| Framing lumber | 2×4 | TBD | | |
-| Trim | 1×2 + decorative | TBD | | |
-| Side countertops (stepped) | TBD material ×2 (sides higher; center lower) | 2 | | |
+| Framing lumber | 2×4 × 8′ | **3** (both risers; per `01-risers.md`) | | |
+| Plywood — towers + counters | ¾" paint-grade 4×8 | **3** sheets (sides, horizontals, counters/scrap) | | |
+| Plywood — face skins / returns | ¾" paint-grade 4×8 | **TBD** after dry-fit | | |
+| Beadboard | Upper center bay only | Field measure ~65″ W × tower H | | |
+| Trim | 1×2 + decorative / shoe | TBD | | |
+| Side countertops | Included in ¾″ ply above (27×16 ×2) | 2 blanks | | |
 | Primer | Bonding / enamel undercoat | | | |
 | Paint | Benjamin Moore White Dove (semi or gloss) | | | |
-| Fasteners / adhesive / caulk / filler | assorted | | | |
+| Fasteners / adhesive / caulk / filler | Kreg screws, face screws, shims | assorted | | |
 | Cable grommets / raceway / outlet materials | assorted | | | |
 | **Materials subtotal** | | | | **TBD** |
 

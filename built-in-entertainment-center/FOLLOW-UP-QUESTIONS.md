@@ -17,7 +17,7 @@ Framing furniture in often locks in mistakes around access. Clarify:
 **Your answer:**  
 **Permanent** plywood encasement — units do not slide out.  
 Cable / gear access is **through cabinet interiors**. Outlets will be relocated and/or extensions routed so devices can be plugged in **at/near the top of the cabinets**.  
-**Stepped countertops:** side cabinets (on 4″ risers) get higher counters; center console stays lower — not one continuous flush full-span top.  
+**Stepped countertops:** side cabinets (on **3½″** risers) get higher counters; center console stays lower — not one continuous flush full-span top.  
 TV stays wall-mounted (serviceable from the front); limited in-cabinet gear (DVD/Blu-ray).
 
 ---
@@ -58,11 +58,11 @@ Beyond overall width/height, capture:
 See [measurements.md](./measurements.md) for full numbers. Summary:
 
 - Full wall width: **159¼"**
-- Carcass span: **119"** (27+65+27); leftover ≈**40¼"** placed per Path A/B/C
-- **Risers:** 4″ under **side cabinets only**; center height unchanged → **~4″ step** before side-counter thickness
+- **Path A:** carcass span **119"** (27+65+27) centered; open flanks ~**20⅛″** each
+- **Risers:** **3½″** under **side cabinets only** (2×4 on edge); center height unchanged → side top **34¼″** → step ~**4¼″** vs center
 - Max furniture depth today: center **18"** (+ plywood face / side-counter overhang TBD)
 - Out-of-square / floor slope: **not yet measured** — check at dry-fit
-- Side cabinets shallower (~15") than center (18") — common front plane via plywood on each stack
+- Side cabinets shallower (~15") than center (18") — common front plane via plywood on each stack (detail TBD)
 
 ---
 
@@ -80,7 +80,7 @@ Pick a primary hierarchy and a secondary one, for example:
 Millwork-forward: plywood encasement + **Benjamin Moore White Dove** (semi or full gloss).  
 **Built-in shelves** above the side cabinetry (upper towers 27" W × 12" D to ceiling trim).  
 **TV:** leave wall-mounted as today — no aperture / surround buildout.  
-**Dead space** — evaluate mock-up **Paths A / B / C** in [dead-space-options.md](./dead-space-options.md) (not yet decided).  
+**Dead space:** **Path A** — centered group, open flanks, scribe + face skin (see [dead-space-options.md](./dead-space-options.md)).  
 Soundbar: still open (center top vs. elsewhere).
 
 ---
@@ -99,6 +99,6 @@ Define:
 **Fully DIY.**  
 Spent so far: **~$75** (used side cabinets); center console already owned.  
 Tools: rough **$200–$400** for saws (may already be found).  
-Materials target: **budget-friendly** — 2×4 framing, ¾" plywood, 1×2 / decorative trim; full material estimate still needed (path-dependent).  
+Materials target: **budget-friendly** — 2×4 framing, ¾" plywood, 1×2 / decorative trim; Path A qty guesses in [budget-estimate.md](./budget-estimate.md) ($ still TBD).  
 Electrical note: relocating an outlet behind the TV is in scope for the plan; follow local code / use a qualified person if required in your area.  
-Stop-loss: keep material + paint lean; simplify dead-space treatment (favor Path A or C over B) and lighting if costs climb.
+Stop-loss: keep material + paint lean; Path A already chosen (simplest flank treatment); skip or defer lighting if costs climb.

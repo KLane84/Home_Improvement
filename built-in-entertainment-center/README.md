@@ -4,7 +4,9 @@ Project docs for framing existing furniture into a built-in home entertainment c
 
 ## Status
 
-**Phase:** Planning — answers recorded; Path A/B/C mock-up next; stepped side counters locked
+**Phase:** Path **A** locked — build guides + manual drafted; ceiling heights & dry-fit still needed before cut day  
+**Layout:** Centered 119″ carcass group, ~20⅛″ open flanks, scribe + face skin (no between-unit fillers)  
+**Stack:** Side-only **3½″** risers (2×4 on edge) → **¾″** side counters → side top **34¼″** AFF (~**4¼″** step vs center)
 
 ## What's in this folder
 
@@ -16,15 +18,15 @@ Project docs for framing existing furniture into a built-in home entertainment c
 | [FOLLOW-UP-QUESTIONS.md](./FOLLOW-UP-QUESTIONS.md) | Five questions (answered) with full write-ups |
 | [measurements.md](./measurements.md) | Site, furniture, side-only risers, stepped counters |
 | [aesthetics.md](./aesthetics.md) | White Dove / plywood / towers / trim intent |
-| [dead-space-options.md](./dead-space-options.md) | Mock-up Paths A / B / C (+ B.a/b/c) |
-| [mockups/](./mockups/) | CAD-style elevation sketches (SVG + canvas) |
-| [budget-estimate.md](./budget-estimate.md) | Spent + WIP materials pricing |
+| [dead-space-options.md](./dead-space-options.md) | Path A decided; B/C archived for history |
+| [mockups/](./mockups/) | Path A elevation + photoreal mockups |
+| [budget-estimate.md](./budget-estimate.md) | Spent + Path A materials qty guesses |
 | [working-plan.md](./working-plan.md) | Living working plan |
 | [YOUR-TODOS.md](./YOUR-TODOS.md) | What’s still open vs. answered |
 | [photos/](./photos/) | Categorized current-state photos |
 
 ## How we'll use this repo
 
-1. Tape Paths A/B/C and lock dead-space + remaining measurements.
-2. Refine the working plan against the checklist.
-3. Only then move into cut lists, materials, and build sequence.
+1. Finish remaining site numbers (ceiling L/C/R, dry-fit scribe gaps).
+2. Price Path A cut lists; close open items in `YOUR-TODOS.md`.
+3. Only then buy sheet goods and cut tower sides / face skins.

@@ -6,4 +6,4 @@ Personal home-improvement project docs, kept in git so Cursor agents can plan an
 
 | Project | Path | Status |
 |---|---|---|
-| Built-in home entertainment center | [built-in-entertainment-center/](./built-in-entertainment-center/) | Planning scaffold |
+| Built-in home entertainment center | [built-in-entertainment-center/](./built-in-entertainment-center/) | Path A locked — pre-build measurements |
