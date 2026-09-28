@@ -7,9 +7,8 @@ All dimensions in inches unless noted. Cabinetry convention used by homeowner: *
 | Dimension | Value | Notes |
 |---|---|---|
 | Full wall width | **159¼"** (13' 3¼") | End-to-end of entertainment wall |
-| Composite built-in width | **131"** | Furniture + planned fillers between units |
-| Empty clearance left | **14⅛"** | Outside composite — see dead-space options |
-| Empty clearance right | **14⅛"** | Outside composite — see dead-space options |
+| Composite / placement width | Depends on Path A/B/C | See [dead-space-options.md](./dead-space-options.md) — Path A targets ~**131"** centered; B/C redistribute to walls |
+| Empty clearance left / right | Path-dependent | Path A ≈ **14⅛"** each; Path B ≈ 0 at walls; Path C = even gaps |
 | Floor-to-ceiling (L / C / R) | _TBD_ | Measure for upper tower / crown meet |
 | Wall out-of-square / floor slope | _TBD_ | Check at dry-fit |
 | Max depth into room | Center stack ~18" + face/counter | Side stacks ~15" before common plane |
@@ -18,38 +17,42 @@ All dimensions in inches unless noted. Cabinetry convention used by homeowner: *
 
 | Piece | L (width) | W (depth) | H | Notes |
 |---|---|---|---|---|
-| Central console | 65" | 18" | ~30" | Before base riser + countertop |
+| Central console | 65" | 18" | ~30" | **No riser** — stays at current height; below stepped side counters |
 | Side cabinet (Lowe's stock) ×2 | 27" each | ~15" | 30" | ~12" box + doors/hardware + ~2" rear setback |
 | Upper shelving tower ×2 | 27" each | 12" | to ceiling trim | Match lower side cabinet width |
 
-**Sanity check:** 27 + 65 + 27 = **119"** of carcass span. Composite **131"** implies ~**12"** total for gaps/fillers between the three base units (or distributed reveals) inside the 131" envelope. Confirm intended gap layout before cut list.
+**Sanity check:** 27 + 65 + 27 = **119"** of carcass span. Leftover wall inches = 159¼ − 119 ≈ **40¼"** total — how those inches are placed is Path A / B / C (see dead-space options).
 
 ## Base risers (ladder frames)
 
-| Riser | L | W | H |
-|---|---|---|---|
-| Central | 65" | 18" | 4" |
-| Side ×2 | 27" | 15" | 4" |
+| Riser | L | W | H | Notes |
+|---|---|---|---|---|
+| Central | — | — | **0"** | **No riser** — center furniture left at existing height |
+| Side ×2 | 27" | 15" | **4"** | Ladder frames under side cabinets only |
 
-**Stack height (base only, before countertop thickness):** riser 4" + unit ~30" = **~34"** to underside of countertop.
+**Stack heights (to top of unit, before side countertop thickness):**
+- Sides: riser 4" + unit ~30" = **~34"**
+- Center: unit ~30" = **~30"**
+- **Step:** sides ≈ **4"** higher than center before adding side counter thickness
 
-## Countertop
+## Countertop (stepped)
 
 | Item | Value | Notes |
 |---|---|---|
-| Span | Full composite (~131") | Across both sides + center |
-| Depth | TBD | At least deep enough for deepest unit + desired overhang (center 18" drives this) |
-| Thickness / material | TBD | Paint-grade plywood, butcher block, laminate, etc. |
-| Finished height to top | ~34" + counter thickness | Record once material chosen |
+| Type | **Stepped** | Outsides higher than center — not one continuous flush blank |
+| Side counters | Over each raised side cabinet | Span/depth TBD; may extend over Path B gap boxes if chosen |
+| Center | Existing console top (or thin cap later) | Remains **lower** than side counters |
+| Height delta | ~4" + side-counter thickness | Remeasure viewing / soundbar after dry-fit |
+| Side depth | TBD | At least deep enough for ~15" sides + desired overhang; center depth still ~18" |
 
 ## TV & seating
 
 | Item | Value | Notes |
 |---|---|---|
-| TV diagonal / brand | _TBD_ | Wall-mounted today |
+| TV diagonal / brand | _TBD_ | Wall-mounted today — **leave as mounted** (no surround buildout) |
 | TV W × H × D | _TBD_ | |
-| Mount type | Wall mount (existing) | |
-| Floor-to-center-of-screen | _TBD_ | Remeasure after risers + countertop change lower reference |
+| Mount type | Wall mount (existing) | Unchanged |
+| Floor-to-center-of-screen | _TBD_ | Remeasure after side risers change lower reference / sightlines |
 | Primary seating distance | _TBD_ | |
 | Power | Relocate outlet up behind TV | |
 
@@ -74,6 +77,6 @@ Indexed under [photos/README.md](./photos/README.md).
 | CS-03 | `photos/current-state/overview/03-entertainment-wall-wide.jpg` | Full wall context |
 | CS-04 | `photos/current-state/layout-mockup/04-three-unit-dry-fit.jpg` | Three-unit dry-fit layout |
 
-- Front elevation sketch: _TBD_
-- Plan (top-down): _TBD_
-- Detail / problem spots: depth mismatch sides vs center; 14⅛" flanks; ceiling vent
+- Front elevation sketch: _TBD_ (show stepped counters)
+- Plan (top-down): _TBD_ (show Path A/B/C placement)
+- Detail / problem spots: depth mismatch sides vs center; path-dependent flanks; ceiling vent; 4" step

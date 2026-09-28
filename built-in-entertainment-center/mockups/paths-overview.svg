@@ -1,0 +1,128 @@
+<!--
+  Rough CAD front elevations  Paths A / B.a / B.b / C
+  Units: inches. Ceiling assumed 96" until measured.
+  Stepped side counters; 4" risers on side cabinets only; TV as mounted.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" width="520" height="640">
+  <style>
+    .title { font: 700 14px sans-serif; fill: #1a1a1a; }
+    .sub { font: 11px sans-serif; fill: #555; }
+    .dim { font: 9px sans-serif; fill: #666; }
+    .lbl { font: 10px sans-serif; fill: #333; }
+    .wall { fill: #f3f3f3; stroke: #222; stroke-width: 1; }
+    .side { fill: #dce6f0; stroke: #222; stroke-width: 1.2; }
+    .center { fill: #e8e0d8; stroke: #222; stroke-width: 1.2; }
+    .filler { fill: #fff; stroke: #222; stroke-width: 1; stroke-dasharray: 4 3; }
+    .cubby { fill: #fff; stroke: #2a6bb5; stroke-width: 1.4; }
+    .mini { fill: #dce6f0; stroke: #222; stroke-width: 1.2; }
+    .counter { fill: #2a6bb5; stroke: #1a4f88; stroke-width: 0.8; }
+    .riser { fill: #c8c8c8; stroke: #222; stroke-width: 1; }
+    .tv { fill: #333; stroke: #111; stroke-width: 1; }
+    .tvt { font: 9px sans-serif; fill: #eee; }
+    .floor { stroke: #222; stroke-width: 1.5; }
+  </style>
+
+  <text x="16" y="22" class="title">Built-in entertainment center  layout mockups (front elevation)</text>
+  <text x="16" y="40" class="sub">Wall 159¼3 · carcasses 1193 · leftover 40¼3 · side risers 43 · stepped counters · TV as mounted · ceiling assumed 963</text>
+
+  <!-- ========== PATH A ========== -->
+  <g transform="translate(20,56)">
+    <text x="0" y="0" class="title">A  Centered + open flanks</text>
+    <text x="0" y="14" class="sub">14[3 open | 273 | 63 filler | 653 | 63 filler | 273 | 14[3 open</text>
+    <g transform="translate(0,24)">
+      <!-- scale: 3px per inch ’ 477.75 wide; use 2.8 -->
+      <!-- wall -->
+      <rect class="wall" x="0" y="0" width="446" height="269"/>
+      <!-- TV centered: (159.25-48)/2 = 55.625 ’ 155.75px at 2.8 -->
+      <rect class="tv" x="156" y="56" width="134" height="78" rx="2"/>
+      <text x="223" y="98" text-anchor="middle" class="tvt">TV</text>
+      <!-- flanks hatch -->
+      <g stroke="#bbb" stroke-width="0.8">
+        <line x1="8" y1="200" x2="8" y2="268"/><line x1="18" y1="200" x2="18" y2="268"/>
+        <line x1="28" y1="200" x2="28" y2="268"/>
+        <line x1="418" y1="200" x2="418" y2="268"/><line x1="428" y1="200" x2="428" y2="268"/>
+        <line x1="438" y1="200" x2="438" y2="268"/>
+      </g>
+      <!-- x starts after flank 14.125*2.8=39.55 -->
+      <!-- side L: x=39.5 w=75.6 -->
+      <rect class="riser" x="40" y="258" width="76" height="11"/>
+      <rect class="side" x="40" y="174" width="76" height="84"/>
+      <rect class="counter" x="39" y="170" width="78" height="4"/>
+      <rect class="side" x="40" y="0" width="76" height="170" fill="none"/>
+      <line x1="42" y1="42" x2="114" y2="42" stroke="#888" stroke-width="0.8"/>
+      <line x1="42" y1="84" x2="114" y2="84" stroke="#888" stroke-width="0.8"/>
+      <line x1="42" y1="126" x2="114" y2="126" stroke="#888" stroke-width="0.8"/>
+      <!-- filler 6*2.8=16.8 -->
+      <rect class="filler" x="116" y="174" width="17" height="95"/>
+      <!-- center 65*2.8=182 -->
+      <rect class="center" x="133" y="185" width="182" height="84"/>
+      <text x="224" y="230" text-anchor="middle" class="lbl">center ~303</text>
+      <!-- filler -->
+      <rect class="filler" x="315" y="174" width="17" height="95"/>
+      <!-- side R -->
+      <rect class="riser" x="332" y="258" width="76" height="11"/>
+      <rect class="side" x="332" y="174" width="76" height="84"/>
+      <rect class="counter" x="331" y="170" width="78" height="4"/>
+      <rect class="side" x="332" y="0" width="76" height="170" fill="none"/>
+      <line x1="334" y1="42" x2="406" y2="42" stroke="#888" stroke-width="0.8"/>
+      <line x1="334" y1="84" x2="406" y2="84" stroke="#888" stroke-width="0.8"/>
+      <line x1="334" y1="126" x2="406" y2="126" stroke="#888" stroke-width="0.8"/>
+      <line class="floor" x1="0" y1="269" x2="446" y2="269"/>
+      <text x="20" y="284" class="dim">14[3</text>
+      <text x="78" y="284" class="dim">273</text>
+      <text x="120" y="284" class="dim">63</text>
+      <text x="210" y="284" class="dim">653</text>
+      <text x="318" y="284" class="dim">63</text>
+      <text x="360" y="284" class="dim">273</text>
+      <text x="420" y="284" class="dim">14[3</text>
+    </g>
+  </g>
+
+  <!-- ========== PATH B.a ========== -->
+  <g transform="translate(20,380)">
+    <text x="0" y="0" class="title">B.a  Cabinets to walls + open cubbies</text>
+    <text x="0" y="14" class="sub">273 | ~20[3 cubby | 653 | ~20[3 cubby | 273</text>
+    <g transform="translate(0,22) scale(0.72)">
+      <rect class="wall" x="0" y="0" width="446" height="269"/>
+      <rect class="tv" x="156" y="56" width="134" height="78" rx="2"/>
+      <text x="223" y="98" text-anchor="middle" class="tvt">TV</text>
+      <!-- side L at wall -->
+      <rect class="riser" x="0" y="258" width="76" height="11"/>
+      <rect class="side" x="0" y="174" width="76" height="84"/>
+      <rect class="counter" x="0" y="170" width="76" height="4"/>
+      <rect class="side" x="0" y="0" width="76" height="170" fill="none"/>
+      <!-- cubby ~56px (20.125*2.8) -->
+      <rect class="cubby" x="76" y="174" width="56" height="95"/>
+      <line x1="78" y1="205" x2="130" y2="205" stroke="#2a6bb5" stroke-width="1"/>
+      <line x1="78" y1="236" x2="130" y2="236" stroke="#2a6bb5" stroke-width="1"/>
+      <rect class="counter" x="76" y="170" width="56" height="4"/>
+      <!-- center -->
+      <rect class="center" x="132" y="185" width="182" height="84"/>
+      <!-- cubby R -->
+      <rect class="cubby" x="314" y="174" width="56" height="95"/>
+      <line x1="316" y1="205" x2="368" y2="205" stroke="#2a6bb5" stroke-width="1"/>
+      <line x1="316" y1="236" x2="368" y2="236" stroke="#2a6bb5" stroke-width="1"/>
+      <rect class="counter" x="314" y="170" width="56" height="4"/>
+      <!-- side R -->
+      <rect class="riser" x="370" y="258" width="76" height="11"/>
+      <rect class="side" x="370" y="174" width="76" height="84"/>
+      <rect class="counter" x="370" y="170" width="76" height="4"/>
+      <rect class="side" x="370" y="0" width="76" height="170" fill="none"/>
+      <line class="floor" x1="0" y1="269" x2="446" y2="269"/>
+    </g>
+  </g>
+
+  <!-- note: B.b and C as compact callouts since full page -->
+  <g transform="translate(280,400)">
+    <text x="0" y="0" class="title">B.b</text>
+    <text x="0" y="16" class="sub">Same as B.a placement;</text>
+    <text x="0" y="30" class="sub">gaps = closed mini-cabinets</text>
+    <text x="0" y="44" class="sub">instead of open shelves.</text>
+    <text x="0" y="70" class="title">C</text>
+    <text x="0" y="86" class="sub">Even ~103 gaps ×4;</text>
+    <text x="0" y="100" class="sub">plywood filler masks only</text>
+    <text x="0" y="114" class="sub">(no cubbies / cabinets).</text>
+    <text x="0" y="140" class="dim">Open interactive canvas for</text>
+    <text x="0" y="154" class="dim">full B.b and C elevations.</text>
+  </g>
+</svg>

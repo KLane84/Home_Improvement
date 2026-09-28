@@ -16,7 +16,8 @@ Framing furniture in often locks in mistakes around access. Clarify:
 
 **Your answer:**  
 **Permanent** plywood encasement — units do not slide out.  
-Cable / gear access is **through cabinet interiors**. Outlets will be relocated and/or extensions routed so devices can be plugged in **at/near the top of the cabinets**. A **full-span countertop** runs across both side cabinets and the center console.  
+Cable / gear access is **through cabinet interiors**. Outlets will be relocated and/or extensions routed so devices can be plugged in **at/near the top of the cabinets**.  
+**Stepped countertops:** side cabinets (on 4″ risers) get higher counters; center console stays lower — not one continuous flush full-span top.  
 TV stays wall-mounted (serviceable from the front); limited in-cabinet gear (DVD/Blu-ray).
 
 ---
@@ -34,8 +35,8 @@ List every powered device and sketch the path for:
 **Your answer:**  
 | Device | Power plan | Notes |
 |---|---|---|
-| Wall-mounted TV | Relocate / add outlet **up behind TV** | Primary power move |
-| Soundbar (assumed still in play) | Top of cabinets / countertop zone via routed power | Confirm final placement |
+| Wall-mounted TV | Relocate / add outlet **up behind TV** | Primary power move; TV position **unchanged** (no surround) |
+| Soundbar (assumed still in play) | Center top or side zone via routed power | Confirm final placement |
 | DVD / Blu-ray player | Inside a cabinet; limited heat load | Access via cabinet doors |
 | Accent / under lighting | Undecided | Leave chase / power stub if possible |
 
@@ -57,11 +58,11 @@ Beyond overall width/height, capture:
 See [measurements.md](./measurements.md) for full numbers. Summary:
 
 - Full wall width: **159¼"**
-- Composite built-in width: **131"**
-- Empty clearance each side: **14⅛"** (dead-space options — see [dead-space-options.md](./dead-space-options.md))
-- Max furniture depth today: center **18"** (+ plywood face / countertop overhang TBD)
+- Carcass span: **119"** (27+65+27); leftover ≈**40¼"** placed per Path A/B/C
+- **Risers:** 4″ under **side cabinets only**; center height unchanged → **~4″ step** before side-counter thickness
+- Max furniture depth today: center **18"** (+ plywood face / side-counter overhang TBD)
 - Out-of-square / floor slope: **not yet measured** — check at dry-fit
-- Side cabinets shallower (~15") than center (18") — common front plane via plywood + countertop
+- Side cabinets shallower (~15") than center (18") — common front plane via plywood on each stack
 
 ---
 
@@ -78,8 +79,9 @@ Pick a primary hierarchy and a secondary one, for example:
 **Your answer:**  
 Millwork-forward: plywood encasement + **Benjamin Moore White Dove** (semi or full gloss).  
 **Built-in shelves** above the side cabinetry (upper towers 27" W × 12" D to ceiling trim).  
-**Dead space** (esp. 14⅛" each side of the 131" composite, and/or center zone around TV) — **not decided**; options to evaluate in [dead-space-options.md](./dead-space-options.md).  
-Soundbar: still open (visible on countertop vs. integrated).
+**TV:** leave wall-mounted as today — no aperture / surround buildout.  
+**Dead space** — evaluate mock-up **Paths A / B / C** in [dead-space-options.md](./dead-space-options.md) (not yet decided).  
+Soundbar: still open (center top vs. elsewhere).
 
 ---
 
@@ -97,6 +99,6 @@ Define:
 **Fully DIY.**  
 Spent so far: **~$75** (used side cabinets); center console already owned.  
 Tools: rough **$200–$400** for saws (may already be found).  
-Materials target: **budget-friendly** — 2×4 framing, ¾" plywood, 1×2 / decorative trim; full material estimate still needed.  
+Materials target: **budget-friendly** — 2×4 framing, ¾" plywood, 1×2 / decorative trim; full material estimate still needed (path-dependent).  
 Electrical note: relocating an outlet behind the TV is in scope for the plan; follow local code / use a qualified person if required in your area.  
-Stop-loss: keep material + paint lean; simplify dead-space treatment and lighting if costs climb.
+Stop-loss: keep material + paint lean; simplify dead-space treatment (favor Path A or C over B) and lighting if costs climb.

@@ -4,10 +4,10 @@ Answered items stay checked for the record. Open items are what we still need be
 
 ## High-priority (the five planning questions)
 
-- [x] **Q1 — Service access:** Permanent encasement; access via cabinets; power routed to cabinet tops; full-span countertop
+- [x] **Q1 — Service access:** Permanent encasement; access via cabinets; power routed to cabinet tops; stepped counters (not one flush full-span top)
 - [x] **Q2 — Power, signal & heat:** TV outlet relocated up behind TV; DVD/Blu-ray in cabinet; lighting undecided
-- [x] **Q3 — Real measurements:** Wall 159¼"; units + risers + uppers recorded in `measurements.md` (ceiling height / out-of-square still TBD)
-- [x] **Q4 — Visual details:** Shelves above side cabinets locked; dead space / TV field still evaluating
+- [x] **Q3 — Real measurements:** Wall 159¼"; units recorded in `measurements.md`; **side-only 4″ risers**; ceiling height / out-of-square still TBD
+- [x] **Q4 — Visual details:** Shelves above side cabinets locked; TV left as mounted; dead-space Paths A/B/C still evaluating
 - [x] **Q5 — DIY scope & budget:** Fully DIY; ~$75 cabinets so far; $200–$400 tools; budget-friendly 2×4 + ¾" ply + trim
 
 ## Aesthetics follow-ups
@@ -18,12 +18,15 @@ Answered items stay checked for the record. Open items are what we still need be
 
 ## Still open before materials buy
 
-- [ ] Choose **dead-space options** (flanks 14⅛", TV field, ~12" between-unit fillers) — see [dead-space-options.md](./dead-space-options.md)
+- [ ] Choose **dead-space Path A or B.a** after wall tape mock-up (shortlist; see photo mockups in `mockups/`) — see [dead-space-options.md](./dead-space-options.md)
+- [x] If Path B: prefer **B.a** cubbies (vs B.b / B.c) for shortlist
+- [x] Beadboard intent — A: behind unit only; B.a: full-width upper backing (not lower doors)
+- [x] Left chair — shorter white cushiony accent; pull forward in front of left cabinets
 - [ ] Floor-to-ceiling height at left / center / right
-- [ ] Confirm how the ~12" inside the 131" envelope is split between the three base units
-- [ ] Countertop material, thickness, depth, overhang
-- [ ] TV exact size + floor-to-center height (remeasure after 4" risers)
-- [ ] Soundbar: on countertop vs. integrated / hidden
+- [ ] Side countertop material, thickness, depth, overhang (stepped — sides higher)
+- [ ] Detail the visible step between side counters and lower center
+- [ ] TV exact size + floor-to-center height (remeasure after 4″ side risers / stepped tops)
+- [ ] Soundbar: on center top vs. elsewhere / integrated
 - [ ] Lighting: yes/no and rough placement
-- [ ] Rough material cost estimate (plywood sheets, 2×4s, trim, primer, White Dove, fasteners)
+- [ ] Rough material cost estimate (plywood sheets, 2×4s, trim, primer, White Dove, fasteners, beadboard) — path-dependent
 - [ ] Outlet relocation plan detail (which existing outlet moves; in-wall rated cable if needed)

@@ -24,7 +24,7 @@ Keep this lean. Update unit prices when you shop.
 | Plywood | ¾" paint-grade (4×8 sheets) | TBD | | |
 | Framing lumber | 2×4 | TBD | | |
 | Trim | 1×2 + decorative | TBD | | |
-| Countertop blank | TBD material × ~131" | 1 | | |
+| Side countertops (stepped) | TBD material ×2 (sides higher; center lower) | 2 | | |
 | Primer | Bonding / enamel undercoat | | | |
 | Paint | Benjamin Moore White Dove (semi or gloss) | | | |
 | Fasteners / adhesive / caulk / filler | assorted | | | |

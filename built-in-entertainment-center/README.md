@@ -4,7 +4,7 @@ Project docs for framing existing furniture into a built-in home entertainment c
 
 ## Status
 
-**Phase:** Planning scaffold (awaiting full measurements & aesthetics workup)
+**Phase:** Planning — answers recorded; Path A/B/C mock-up next; stepped side counters locked
 
 ## What's in this folder
 
@@ -12,9 +12,10 @@ Project docs for framing existing furniture into a built-in home entertainment c
 |---|---|
 | [PLANNING-CHECKLIST.md](./PLANNING-CHECKLIST.md) | Master checklist to ensure the plan is complete before build |
 | [FOLLOW-UP-QUESTIONS.md](./FOLLOW-UP-QUESTIONS.md) | Five questions (answered) with full write-ups |
-| [measurements.md](./measurements.md) | Site, furniture, risers, clearances |
+| [measurements.md](./measurements.md) | Site, furniture, side-only risers, stepped counters |
 | [aesthetics.md](./aesthetics.md) | White Dove / plywood / towers / trim intent |
-| [dead-space-options.md](./dead-space-options.md) | Options to evaluate for flanks + TV field |
+| [dead-space-options.md](./dead-space-options.md) | Mock-up Paths A / B / C (+ B.a/b/c) |
+| [mockups/](./mockups/) | CAD-style elevation sketches (SVG + canvas) |
 | [budget-estimate.md](./budget-estimate.md) | Spent + WIP materials pricing |
 | [working-plan.md](./working-plan.md) | Living working plan |
 | [YOUR-TODOS.md](./YOUR-TODOS.md) | What’s still open vs. answered |
@@ -22,7 +23,6 @@ Project docs for framing existing furniture into a built-in home entertainment c
 
 ## How we'll use this repo
 
-1. You paste the full workup (measurements + aesthetics).
-2. We refine the working plan against the checklist.
-3. We answer / resolve the follow-up questions.
-4. Only then move into cut lists, materials, and build sequence.
+1. Tape Paths A/B/C and lock dead-space + remaining measurements.
+2. Refine the working plan against the checklist.
+3. Only then move into cut lists, materials, and build sequence.
