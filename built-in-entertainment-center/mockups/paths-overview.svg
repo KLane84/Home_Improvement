@@ -1,7 +1,9 @@
 <!--
-  Rough CAD front elevations  Paths A / B.a / B.b / C
-  Units: inches. Ceiling assumed 96" until measured.
-  Stepped side counters; 4" risers on side cabinets only; TV as mounted.
+  SUPERSEDED historical comparison — Paths A / B.a / B.b / C.
+  Path A was chosen. Do NOT use flank/riser numbers from this file for cutting.
+  Canonical Path A elevation: path-A-build-guide.svg
+  Canonical lumber: ../build-guides/00-lumber-standards.md
+  (This sketch still shows legacy 14?? flanks / 4? risers / between-unit fillers.)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" width="520" height="640">
   <style>
