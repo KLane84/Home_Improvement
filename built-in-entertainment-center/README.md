@@ -10,6 +10,8 @@ Project docs for framing existing furniture into a built-in home entertainment c
 
 | Document | Purpose |
 |---|---|
+| [manual/Path-A-Build-Manual.pdf](./manual/Path-A-Build-Manual.pdf) | **Color build manual** — steps, cut boards, Kreg joinery |
+| [build-guides/](./build-guides/) | **Lumber cut lists** — risers (2×4), counters & shelves (¾″ ply) |
 | [PLANNING-CHECKLIST.md](./PLANNING-CHECKLIST.md) | Master checklist to ensure the plan is complete before build |
 | [FOLLOW-UP-QUESTIONS.md](./FOLLOW-UP-QUESTIONS.md) | Five questions (answered) with full write-ups |
 | [measurements.md](./measurements.md) | Site, furniture, side-only risers, stepped counters |

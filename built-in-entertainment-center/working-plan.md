@@ -4,7 +4,7 @@ Living document. Do not mark **Build-ready** until `PLANNING-CHECKLIST.md` secti
 
 ## Current status
 
-**Status:** Planning — shortlist Path **A** or **B.a**; beadboard + chair intent locked; tape mock-up next  
+**Status:** Path **A** decided — build guide in `mockups/path-A-build-guide.svg`; photoreal mockups for vibe  
 **Build-ready:** No  
 **Photo index:** [photos/README.md](./photos/README.md)  
 **Photo mockups:** [mockups/mockup-path-A-photo.jpg](./mockups/mockup-path-A-photo.jpg) · [mockups/mockup-path-Ba-photo.jpg](./mockups/mockup-path-Ba-photo.jpg)  
@@ -45,16 +45,12 @@ Full tables: [measurements.md](./measurements.md)
 
 ## Open design forks
 
-Evaluate and pick from [dead-space-options.md](./dead-space-options.md):
-
-1. **Path A** — Centered composite; open ~14⅛" flanks; trim outer ends  
-2. **Path B** — Cabinets to outer walls; treat gaps beside center with **B.a** cubbies / **B.b** small cabinets / **B.c** other  
-3. **Path C** — Even span wall-to-wall; mask gaps with plywood fillers only  
+**Path A locked.** Remaining: ceiling L/C/R, dry-fit scribe gaps, side counter depth/overhang.
 
 ## Phases (planned)
 
-1. **Discover** — ~~answers~~; tape Paths A/B/C; pick path (+ B variant if needed); finish remaining measurements  
-2. **Design lock** — common face planes, stepped counter blanks, tower elevations, cable/outlet paths  
+1. **Discover** — ~~path pick~~; finish ceiling + dry-fit measurements  
+2. **Design lock** — face skin, stepped counter blanks, tower elevations, cable/outlet paths  
 3. **Estimate** — sheet goods, 2×4s, trim, primer, White Dove, fasteners (budget pass)  
 4. **Dry-fit** — side risers + units; verify gaps for chosen path; confirm 4" step  
 5. **Build** — side risers → place units → plywood encasement / fillers or cubbies → stepped counters → towers → TV outlet move → chase  

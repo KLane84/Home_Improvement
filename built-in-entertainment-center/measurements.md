@@ -7,8 +7,9 @@ All dimensions in inches unless noted. Cabinetry convention used by homeowner: *
 | Dimension | Value | Notes |
 |---|---|---|
 | Full wall width | **159¼"** (13' 3¼") | End-to-end of entertainment wall |
-| Composite / placement width | Depends on Path A/B/C | See [dead-space-options.md](./dead-space-options.md) — Path A targets ~**131"** centered; B/C redistribute to walls |
-| Empty clearance left / right | Path-dependent | Path A ≈ **14⅛"** each; Path B ≈ 0 at walls; Path C = even gaps |
+| Centered carcass group | **119"** (27+65+27) | **Path A decided** — units grouped tight |
+| Empty clearance left / right (Path A) | **~20⅛"** each | (159¼ − 119) ÷ 2 — open painted wall, not beadboard |
+| Legacy 131″ / 14⅛″ sketch | Superseded | Old CAD assumed 12″ between units; build uses scribe + face skin instead |
 | Floor-to-ceiling (L / C / R) | _TBD_ | Measure for upper tower / crown meet |
 | Wall out-of-square / floor slope | _TBD_ | Check at dry-fit |
 | Max depth into room | Center stack ~18" + face/counter | Side stacks ~15" before common plane |
@@ -23,27 +24,33 @@ All dimensions in inches unless noted. Cabinetry convention used by homeowner: *
 
 **Sanity check:** 27 + 65 + 27 = **119"** of carcass span. Leftover wall inches = 159¼ − 119 ≈ **40¼"** total — how those inches are placed is Path A / B / C (see dead-space options).
 
-## Base risers (ladder frames)
+## Base risers (ladder frames) — actual lumber
 
 | Riser | L | W | H | Notes |
 |---|---|---|---|---|
-| Central | — | — | **0"** | **No riser** — center furniture left at existing height |
-| Side ×2 | 27" | 15" | **4"** | Ladder frames under side cabinets only |
+| Central | — | — | **0"** | No riser |
+| Side ×2 | 27" | 15" | **3½"** | **2×4 on edge** (actual 1½″ × 3½″) — see [build-guides/01-risers.md](./build-guides/01-risers.md) |
 
-**Stack heights (to top of unit, before side countertop thickness):**
-- Sides: riser 4" + unit ~30" = **~34"**
-- Center: unit ~30" = **~30"**
-- **Step:** sides ≈ **4"** higher than center before adding side counter thickness
+**Stack heights (sides, AFF):**
+- Riser **3½″** + cabinet **30″** + counter **¾″** = **34¼″** side counter top
+- Center ~**30″** (no riser)
+- **Step** ≈ **4¼″**
 
-## Countertop (stepped)
+## Countertop (stepped) — ¾″ plywood
 
 | Item | Value | Notes |
 |---|---|---|
-| Type | **Stepped** | Outsides higher than center — not one continuous flush blank |
-| Side counters | Over each raised side cabinet | Span/depth TBD; may extend over Path B gap boxes if chosen |
-| Center | Existing console top (or thin cap later) | Remains **lower** than side counters |
-| Height delta | ~4" + side-counter thickness | Remeasure viewing / soundbar after dry-fit |
-| Side depth | TBD | At least deep enough for ~15" sides + desired overhang; center depth still ~18" |
+| Type | **Stepped** | Sides only |
+| Side counters ×2 | **27″ × 16″ × ¾″** | 1″ front overhang; [02-counters.md](./build-guides/02-counters.md) |
+| Center | Existing top | Lower |
+
+## Shelf towers — ¾″ plywood
+
+| Item | Value | Notes |
+|---|---|---|
+| Outer | **27″ × 12″ × H** | H = crown underside − 34¼″ ([03-shelf-towers.md](./build-guides/03-shelf-towers.md)) |
+| Shelves | **25½″ × 12″ × ¾″** | Fit between ¾″ sides |
+| Placeholder H | **~58¼″** | Until ceiling measured |
 
 ## TV & seating
 

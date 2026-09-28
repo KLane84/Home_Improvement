@@ -18,15 +18,17 @@ Answered items stay checked for the record. Open items are what we still need be
 
 ## Still open before materials buy
 
-- [ ] Choose **dead-space Path A or B.a** after wall tape mock-up (shortlist; see photo mockups in `mockups/`) — see [dead-space-options.md](./dead-space-options.md)
-- [x] If Path B: prefer **B.a** cubbies (vs B.b / B.c) for shortlist
+- [x] Choose **Path A** (centered group, open flanks) — see [path-A-build-guide.svg](./mockups/path-A-build-guide.svg)
+- [x] Between-unit joints — scribe + continuous face skin (not 6″ ply slabs)
 - [x] Beadboard intent — A: behind unit only; B.a: full-width upper backing (not lower doors)
 - [x] Left chair — shorter white cushiony accent; pull forward in front of left cabinets
-- [ ] Floor-to-ceiling height at left / center / right
-- [ ] Side countertop material, thickness, depth, overhang (stepped — sides higher)
-- [ ] Detail the visible step between side counters and lower center
-- [ ] TV exact size + floor-to-center height (remeasure after 4″ side risers / stepped tops)
+- [x] Lumber guides — risers (2×4 actual), counters & shelf towers (¾″ ply) in `build-guides/`
+- [ ] Floor-to-ceiling height at left / center / right (**needed before cutting tower sides**)
+- [ ] Confirm ¾″ plywood brand/thickness (some sheets are 23/32″)
+- [ ] Side counter overhang after dry-fit (guide uses 1″ front)
+- [ ] TV exact size + floor-to-center height (remeasure after side risers / stepped tops)
 - [ ] Soundbar: on center top vs. elsewhere / integrated
 - [ ] Lighting: yes/no and rough placement
-- [ ] Rough material cost estimate (plywood sheets, 2×4s, trim, primer, White Dove, fasteners, beadboard) — path-dependent
+- [ ] Rough material cost estimate from cut lists
 - [ ] Outlet relocation plan detail (which existing outlet moves; in-wall rated cable if needed)
+- [ ] Face-skin / encasement plywood cut list (next after carcass dry-fit)

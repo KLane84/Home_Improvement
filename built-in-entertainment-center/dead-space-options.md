@@ -7,9 +7,9 @@
 - **Countertop:** **Stepped** — side counters higher than the center top (~4″ before side-counter thickness).
 - **TV:** Stays wall-mounted as today — no special surround / aperture / TV-field buildout.
 
-Goal: tape and compare **Paths A / B / C**, pick one, then (if B) pick a/b/c before the plywood cut list.
+**Decided:** **Path A** — centered carcass group, open outer flanks, no between-unit filler boxes (see [mockups/path-A-build-guide.svg](./mockups/path-A-build-guide.svg)).
 
-**Shortlist:** Path **A** or **B.a** look best so far (photo mockups below).
+**Shortlist (historical):** Path A chosen over B.a (2026-09-27).
 
 **Visual mockups:**
 - CAD: [mockups/](./mockups/) + canvas `entertainment-center-mockups.canvas.tsx`
@@ -30,7 +30,7 @@ Keep the three-unit composite **centered** on the wall. Leave ~**14⅛″** open
 | Topic | Notes |
 |---|---|
 | **Tape on wall** | Centerline; outer edges of 131″ (or actual composite width); mark 14⅛″ flanks L/R |
-| **Where inches go** | Flanks stay empty; ~12″ inside the composite still needs a filler story between the three units (even gaps, or absorbed into stiles) |
+| **Where inches go** | **Open flanks only** (~20⅛″ each side if group is 119″ centered on 159¼″ wall). **Between units:** tight scribe (⅛–½″), continuous plywood **face skin** — not 6″ vertical ply slabs (see build guide plan view) |
 | **Plywood impact** | Lowest flank material; mainly encasement + trim returns at ends |
 | **Stepped countertop** | Side counters on the two raised cabinets only; center console top stays lower; flanks have no counter |
 
@@ -95,10 +95,10 @@ Distribute the three units so spacing is **even** from wall to wall and between 
 
 | Item | Chosen | Date | Notes |
 |---|---|---|---|
-| Mock-up path (A / B / C) | _TBD_ — shortlist **A** or **B.a** | 2026-09-27 | Photo mockups generated; tape before final pick |
+| Mock-up path (A / B / C) | **Path A** | 2026-09-27 | Build guide: `mockups/path-A-build-guide.svg` |
 | If Path B: variant (a / b / c) | **a** preferred if B | 2026-09-27 | Open cubbies |
 | Beadboard backing | Path-dependent | 2026-09-27 | A: behind unit only; B.a: full-width upper wall |
 | Left seating | White cushiony accent chair | 2026-09-27 | Replace recliner; pull forward in front of left cabinets |
-| Between-unit filler detail (if still needed under A) | _TBD_ | | |
+| Between-unit joints (Path A) | Scribe + face skin | 2026-09-27 | No 6″ void fillers; encasement wraps front |
 | Soundbar | _TBD_ | | On center top vs. side / integrated |
 | TV treatment | **Leave as mounted** | 2026-09-27 | No surround / aperture buildout |
