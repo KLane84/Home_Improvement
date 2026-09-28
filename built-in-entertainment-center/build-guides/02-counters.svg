@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420">
+  <style>
+    .t { font: 700 14px sans-serif; fill: #111; }
+    .s { font: 11px sans-serif; fill: #444; }
+    .d { font: 10px sans-serif; fill: #c45a11; }
+    .lbl { font: 10px sans-serif; fill: #333; }
+    .ply { fill: #e6d5b8; stroke: #6b542e; stroke-width: 1.2; }
+    .sheet { fill: #f5f0e6; stroke: #888; stroke-width: 1; stroke-dasharray: 4 3; }
+  </style>
+
+  <text x="16" y="24" class="t">02  Side counters from ¾3 plywood</text>
+  <text x="16" y="42" class="s">Two blanks · 273 × 163 × ¾3 · 13 front overhang past 153 cabinet</text>
+
+  <!-- Cross section -->
+  <g transform="translate(20, 70)">
+    <text x="0" y="0" class="t" font-size="12">Section at side cabinet</text>
+    <!-- cabinet 15" = 60px at 4px/in, counter 16" = 64 -->
+    <rect x="40" y="40" width="60" height="50" fill="#dce6f0" stroke="#222"/>
+    <text x="70" y="70" text-anchor="middle" class="lbl">cabinet</text>
+    <text x="70" y="84" text-anchor="middle" class="lbl">153 deep</text>
+    <rect class="ply" x="38" y="28" width="64" height="6"/>
+    <text x="70" y="22" text-anchor="middle" class="d">¾3 × 273 × 163</text>
+    <line x1="98" y1="28" x2="98" y2="50" stroke="#c45a11" stroke-width="1"/>
+    <text x="102" y="42" class="d">13 overhang</text>
+    <rect x="40" y="90" width="60" height="14" fill="#b8b8b8" stroke="#222"/>
+    <text x="70" y="100" text-anchor="middle" class="lbl">2×4 riser 3½3</text>
+  </g>
+
+  <!-- Two boards -->
+  <g transform="translate(280, 70)">
+    <text x="0" y="0" class="t" font-size="12">Cut blanks (qty 2)</text>
+    <rect class="ply" x="0" y="20" width="162" height="64"/>
+    <text x="81" y="50" text-anchor="middle" class="lbl">C1  273 × 163</text>
+    <text x="81" y="66" text-anchor="middle" class="d">¾3 plywood</text>
+    <rect class="ply" x="0" y="100" width="162" height="64"/>
+    <text x="81" y="130" text-anchor="middle" class="lbl">C1  273 × 163</text>
+    <text x="81" y="146" text-anchor="middle" class="d">¾3 plywood</text>
+  </g>
+
+  <!-- Sheet nest -->
+  <g transform="translate(20, 250)">
+    <text x="0" y="0" class="t" font-size="12">Nest on 4×8 sheet (with tower leftover)</text>
+    <rect class="sheet" x="0" y="16" width="288" height="144"/>
+    <text x="8" y="12" class="s">963 ’</text>
+    <rect class="ply" x="8" y="28" width="81" height="48"/>
+    <text x="48" y="56" text-anchor="middle" class="lbl" font-size="9">27×16</text>
+    <rect class="ply" x="96" y="28" width="81" height="48"/>
+    <text x="136" y="56" text-anchor="middle" class="lbl" font-size="9">27×16</text>
+    <text x="8" y="100" class="s">Remainder of sheet ’ shelf tower parts / face skins</text>
+  </g>
+</svg>

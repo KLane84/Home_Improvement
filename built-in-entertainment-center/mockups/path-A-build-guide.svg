@@ -1,0 +1,189 @@
+<!--
+  Path A — build guide (true scale)
+  Scale: 1 inch = 3.5 px (same X and Y). SVG viewBox preserves aspect ratio when scaled to fit the window.
+  Decided: open outer flanks; tight carcass group; face skin (no 6" fillers).
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 620" width="680" height="620">
+  <defs>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#c45a11"/>
+    </marker>
+    <marker id="arrowStart" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto">
+      <path d="M6,0 L0,3 L6,6 Z" fill="#c45a11"/>
+    </marker>
+  </defs>
+  <style>
+    .t { font: 700 15px sans-serif; fill: #111; }
+    .s { font: 11px sans-serif; fill: #444; }
+    .d { font: 10px sans-serif; fill: #555; }
+    .dh { font: 700 10px sans-serif; fill: #c45a11; }
+    .wall { fill: #ececec; stroke: #222; stroke-width: 1; }
+    .open { fill: #f7f7f7; stroke: #999; stroke-width: 1; stroke-dasharray: 5 4; }
+    .side { fill: #dce6f0; stroke: #222; stroke-width: 1.2; }
+    .ctr { fill: #cfd8e0; stroke: #222; stroke-width: 1.2; }
+    .riser { fill: #b8b8b8; stroke: #222; stroke-width: 1; }
+    .cntS { fill: #2a6bb5; stroke: #1a5080; stroke-width: 0.7; }
+    .cntC { fill: #5a82a8; stroke: #1a5080; stroke-width: 0.7; }
+    .tower { fill: #f4f7fa; stroke: #222; stroke-width: 1.1; }
+    .bead { fill: #f2f0ea; stroke: #777; stroke-width: 0.6; }
+    .tv { fill: #222; }
+    .floor { stroke: #222; stroke-width: 1.6; }
+    .dimL { stroke: #c45a11; stroke-width: 1; fill: none; marker-start: url(#arrowStart); marker-end: url(#arrow); }
+    .tick { stroke: #c45a11; stroke-width: 1; }
+  </style>
+
+  <!-- Scale note -->
+  <text x="16" y="22" class="t">Path A — build guide (decided)</text>
+  <text x="16" y="40" class="s">True scale: 1? = 3.5 px on both axes · SVG scales uniformly to fit the window (does not stretch height vs width)</text>
+  <text x="16" y="56" class="s">Open flanks · 119? carcass group centered · face skin / scribe joints · 4? side risers · stepped counters · towers to crown</text>
+
+  <!-- Elevation: origin (ox, floorY), y increases down; height inches go UP from floor -->
+  <!-- S=3.5; wallW=159.25*3.5=557.375; ceil=96*3.5=336; floorY=70+336=406 -->
+  <g id="elevation" transform="translate(50, 70)">
+    <!-- constants as comments:
+         S=3.5
+         flank=20.125 ? 70.4375
+         cab=27 ? 94.5
+         center=65 ? 227.5
+         group starts at x=70.44
+    -->
+    <!-- Wall -->
+    <rect class="wall" x="0" y="0" width="557.4" height="336"/>
+    <!-- Open flanks -->
+    <rect class="open" x="0" y="0" width="70.4" height="336"/>
+    <rect class="open" x="487" y="0" width="70.4" height="336"/>
+
+    <!-- Crown line -->
+    <line x1="70.4" y1="2" x2="487" y2="2" stroke="#222" stroke-width="1.5"/>
+    <text x="200" y="-4" class="d">room crown / ceiling (assumed 96? FFE until measured)</text>
+
+    <!-- Positions from left of wall:
+         flank 0–70.4
+         L cab 70.4–164.9
+         center 164.9–392.4
+         R cab 392.4–486.9
+         flank 486.9–557.4
+         Floor at y=336
+    -->
+    <!-- Beadboard between towers, above center counter -->
+    <!-- side counter top at floor: 35.5" ? y = 336 - 35.5*3.5 = 336 - 124.25 = 211.75 -->
+    <!-- center top at 30" ? y = 336 - 105 = 231 -->
+    <rect class="bead" x="164.9" y="2" width="227.5" height="209.8"/>
+    <text x="250" y="100" class="d">beadboard (upper center bay only)</text>
+
+    <!-- TV: ~48x28, bottom ~48" AFF ? top at 76"; y_top=336-76*3.5=70; h=28*3.5=98 -->
+    <rect class="tv" x="238" y="70" width="84" height="98" rx="2"/>
+    <text x="280" y="124" text-anchor="middle" fill="#ccc" font-size="11">TV</text>
+
+    <!-- Left tower: from crown (y=2) to side counter top (y=211.75) -->
+    <rect class="tower" x="70.4" y="2" width="94.5" height="209.8"/>
+    <line x1="74" y1="44" x2="161" y2="44" stroke="#888" stroke-width="0.6"/>
+    <line x1="74" y1="86" x2="161" y2="86" stroke="#888" stroke-width="0.6"/>
+    <line x1="74" y1="128" x2="161" y2="128" stroke="#888" stroke-width="0.6"/>
+    <line x1="74" y1="170" x2="161" y2="170" stroke="#888" stroke-width="0.6"/>
+
+    <!-- Right tower -->
+    <rect class="tower" x="392.4" y="2" width="94.5" height="209.8"/>
+    <line x1="396" y1="44" x2="483" y2="44" stroke="#888" stroke-width="0.6"/>
+    <line x1="396" y1="86" x2="483" y2="86" stroke="#888" stroke-width="0.6"/>
+    <line x1="396" y1="128" x2="483" y2="128" stroke="#888" stroke-width="0.6"/>
+    <line x1="396" y1="170" x2="483" y2="170" stroke="#888" stroke-width="0.6"/>
+
+    <!-- Floor -->
+    <line class="floor" x1="0" y1="336" x2="557.4" y2="336"/>
+
+    <!-- LEFT stack: riser 4" (y=336-14=322), carcass 30" (y=322-105=217), counter 1.5" (y=217-5.25=211.75) -->
+    <rect class="riser" x="70.4" y="322" width="94.5" height="14"/>
+    <rect class="side" x="70.4" y="217" width="94.5" height="105"/>
+    <rect class="cntS" x="68.4" y="211.8" width="98.5" height="5.3"/>
+
+    <!-- CENTER: no riser; carcass 30" from floor (y=231); thin top line (existing top / optional cap) -->
+    <rect class="ctr" x="164.9" y="231" width="227.5" height="105"/>
+    <rect class="cntC" x="164.9" y="225.8" width="227.5" height="5.2"/>
+
+    <!-- RIGHT stack -->
+    <rect class="riser" x="392.4" y="322" width="94.5" height="14"/>
+    <rect class="side" x="392.4" y="217" width="94.5" height="105"/>
+    <rect class="cntS" x="390.4" y="211.8" width="98.5" height="5.3"/>
+
+    <!-- Scribe joints (hairline, not gaps) -->
+    <line x1="164.9" y1="217" x2="164.9" y2="336" stroke="#888" stroke-width="0.8" stroke-dasharray="3 2"/>
+    <line x1="392.4" y1="217" x2="392.4" y2="336" stroke="#888" stroke-width="0.8" stroke-dasharray="3 2"/>
+
+    <!-- Outer returns -->
+    <line x1="70.4" y1="211.8" x2="70.4" y2="336" stroke="#222" stroke-width="2"/>
+    <line x1="486.9" y1="211.8" x2="486.9" y2="336" stroke="#222" stroke-width="2"/>
+
+    <!-- ========== WIDTH DIMENSIONS (below floor) ========== -->
+    <line class="dimL" x1="0" y1="352" x2="70.4" y2="352"/>
+    <text x="35" y="366" text-anchor="middle" class="dh">20??</text>
+    <text x="35" y="378" text-anchor="middle" class="d">open flank</text>
+
+    <line class="dimL" x1="70.4" y1="352" x2="164.9" y2="352"/>
+    <text x="117.5" y="366" text-anchor="middle" class="dh">27?</text>
+    <text x="117.5" y="378" text-anchor="middle" class="d">side cab</text>
+
+    <line class="dimL" x1="164.9" y1="352" x2="392.4" y2="352"/>
+    <text x="278.5" y="366" text-anchor="middle" class="dh">65?</text>
+    <text x="278.5" y="378" text-anchor="middle" class="d">center</text>
+
+    <line class="dimL" x1="392.4" y1="352" x2="486.9" y2="352"/>
+    <text x="439.5" y="366" text-anchor="middle" class="dh">27?</text>
+    <text x="439.5" y="378" text-anchor="middle" class="d">side cab</text>
+
+    <line class="dimL" x1="486.9" y1="352" x2="557.4" y2="352"/>
+    <text x="522" y="366" text-anchor="middle" class="dh">20??</text>
+    <text x="522" y="378" text-anchor="middle" class="d">open flank</text>
+
+    <!-- Overall wall -->
+    <line class="dimL" x1="0" y1="392" x2="557.4" y2="392"/>
+    <text x="278" y="408" text-anchor="middle" class="dh">wall 159¼? · carcass group 119? (27+65+27) centered</text>
+
+    <!-- ========== HEIGHT DIMENSIONS (left of drawing) ========== -->
+    <!-- Full ceiling -->
+    <line class="dimL" x1="-28" y1="0" x2="-28" y2="336"/>
+    <text x="-40" y="170" class="dh" transform="rotate(-90 -40 170)">96? ceiling (assumed)</text>
+
+    <!-- Side stack: riser + carcass + counter -->
+    <line class="tick" x1="-8" y1="336" x2="-2" y2="336"/>
+    <line class="tick" x1="-8" y1="322" x2="-2" y2="322"/>
+    <line class="tick" x1="-8" y1="217" x2="-2" y2="217"/>
+    <line class="tick" x1="-8" y1="211.8" x2="-2" y2="211.8"/>
+    <line class="dimL" x1="-5" y1="336" x2="-5" y2="322"/>
+    <text x="-18" y="332" class="dh" transform="rotate(-90 -18 332)">4?</text>
+    <line class="dimL" x1="-5" y1="322" x2="-5" y2="217"/>
+    <text x="-18" y="275" class="dh" transform="rotate(-90 -18 275)">30?</text>
+    <line class="dimL" x1="-5" y1="217" x2="-5" y2="211.8"/>
+    <text x="-18" y="218" class="dh" transform="rotate(-90 -18 218)">1½?</text>
+
+    <!-- Side total to counter top -->
+    <line class="dimL" x1="-48" y1="336" x2="-48" y2="211.8"/>
+    <text x="-60" y="285" class="dh" transform="rotate(-90 -60 285)">35½? side top</text>
+
+    <!-- Center height -->
+    <line class="dimL" x1="570" y1="336" x2="570" y2="225.8"/>
+    <text x="582" y="290" class="dh">30? + top</text>
+    <text x="582" y="302" class="d">center (no riser)</text>
+
+    <!-- Step callout -->
+    <line class="dimL" x1="155" y1="225.8" x2="155" y2="211.8"/>
+    <text x="120" y="222" class="dh">~4–5½? step</text>
+
+    <!-- Tower height label -->
+    <line class="dimL" x1="55" y1="2" x2="55" y2="211.8"/>
+    <text x="42" y="110" class="dh" transform="rotate(-90 42 110)">tower ~60½? (to crown)</text>
+
+    <!-- Depth note on open flank -->
+    <text x="8" y="200" class="d" transform="rotate(-90 8 200)">open wall</text>
+  </g>
+
+  <!-- Height stack callout box -->
+  <g transform="translate(50, 500)">
+    <rect x="0" y="0" width="560" height="100" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+    <text x="12" y="20" class="t" font-size="13">Side stack (why it looks tall when drawn to scale)</text>
+    <text x="12" y="40" class="s">4? riser (ladder / 2×4 frame — finished height; a bare 2×4 is 3½? if laid flat) + 30? cabinet + ~1½? counter ? 35½? to side counter top</text>
+    <text x="12" y="58" class="s">Center stays ~30? (no riser) ? visible step. Towers: from side counter to 96? ceiling ? 60½? of open shelves.</text>
+    <text x="12" y="76" class="s">Earlier SVG squashed the wall to ~80? tall, so cabinets looked short vs the room. This file uses the same scale on X and Y.</text>
+    <text x="12" y="92" class="d">Viewing: browsers/Cursor scale the whole viewBox evenly — height is not independently “stretched.”</text>
+  </g>
+</svg>

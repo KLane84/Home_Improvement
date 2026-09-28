@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="720" height="520">
+  <style>
+    .t { font: 700 14px sans-serif; fill: #111; }
+    .s { font: 11px sans-serif; fill: #444; }
+    .d { font: 10px sans-serif; fill: #c45a11; }
+    .lbl { font: 10px sans-serif; fill: #333; }
+    .board { fill: #e8dcc8; stroke: #5c4a32; stroke-width: 1.2; }
+    .edge { fill: #c4a574; stroke: #5c4a32; stroke-width: 1; }
+    .assy { fill: #dce6f0; stroke: #222; stroke-width: 1.2; }
+  </style>
+
+  <text x="16" y="24" class="t">01  Side risers from 2×4 (actual 1½3 × 3½3)</text>
+  <text x="16" y="42" class="s">On edge ’ finished height 3½3 · Outer footprint 273 × 153 · Two identical risers</text>
+
+  <!-- Isometric-ish exploded boards -->
+  <g transform="translate(20, 60)">
+    <text x="0" y="0" class="t" font-size="12">Boards for ONE riser</text>
+
+    <!-- 2x4 cross section callout -->
+    <g transform="translate(520, 10)">
+      <text x="0" y="0" class="s">2×4 on edge</text>
+      <rect class="edge" x="20" y="10" width="14" height="35"/>
+      <text x="42" y="25" class="d">3½3 H</text>
+      <text x="42" y="40" class="d">1½3 thick</text>
+    </g>
+
+    <!-- Front rail 27" - scale 4px/in ’ 108 wide, height shows 3.5" = 14px as board thickness face -->
+    <g transform="translate(0, 20)">
+      <rect class="board" x="0" y="0" width="216" height="24"/>
+      <text x="108" y="-6" text-anchor="middle" class="d">R1 front  273</text>
+      <text x="108" y="16" text-anchor="middle" class="lbl">2×4 × 273</text>
+    </g>
+    <g transform="translate(0, 60)">
+      <rect class="board" x="0" y="0" width="216" height="24"/>
+      <text x="108" y="-6" text-anchor="middle" class="d">R2 back  273</text>
+      <text x="108" y="16" text-anchor="middle" class="lbl">2×4 × 273</text>
+    </g>
+    <g transform="translate(0, 100)">
+      <rect class="board" x="0" y="0" width="96" height="24"/>
+      <text x="48" y="-6" text-anchor="middle" class="d">R3 side  123</text>
+      <text x="48" y="16" text-anchor="middle" class="lbl">×2</text>
+    </g>
+    <g transform="translate(120, 100)">
+      <rect class="board" x="0" y="0" width="96" height="24"/>
+      <text x="48" y="-6" text-anchor="middle" class="d">R4 stretcher  123</text>
+      <text x="48" y="16" text-anchor="middle" class="lbl">×2</text>
+    </g>
+  </g>
+
+  <!-- Assembled plan -->
+  <g transform="translate(20, 260)">
+    <text x="0" y="0" class="t" font-size="12">Assembled plan (top view)  one riser</text>
+    <!-- scale 6px/in: 27=162, 15=90 -->
+    <rect class="assy" x="40" y="20" width="162" height="18"/>
+    <text x="121" y="33" text-anchor="middle" class="lbl">front 273</text>
+    <rect class="assy" x="40" y="20" width="12" height="90"/>
+    <rect class="assy" x="190" y="20" width="12" height="90"/>
+    <rect class="assy" x="40" y="92" width="162" height="18"/>
+    <text x="121" y="105" text-anchor="middle" class="lbl">back 273</text>
+    <rect class="assy" x="80" y="45" width="12" height="40"/>
+    <rect class="assy" x="140" y="45" width="12" height="40"/>
+    <text x="220" y="55" class="d">sides &amp; stretchers 123</text>
+    <text x="220" y="72" class="s">(153  1½3  1½3)</text>
+
+    <line x1="40" y1="120" x2="202" y2="120" stroke="#c45a11" stroke-width="1"/>
+    <text x="121" y="134" text-anchor="middle" class="d">273 overall width</text>
+    <line x1="30" y1="20" x2="30" y2="110" stroke="#c45a11" stroke-width="1"/>
+    <text x="18" y="70" class="d" transform="rotate(-90 18 70)">153</text>
+  </g>
+
+  <!-- Buy summary -->
+  <g transform="translate(380, 260)">
+    <text x="0" y="0" class="t" font-size="12">Buy / both risers</text>
+    <text x="0" y="22" class="s">4 pcs @ 273 from 2×4</text>
+    <text x="0" y="40" class="s">8 pcs @ 123 from 2×4</text>
+    <text x="0" y="58" class="d">’ ~3 sticks of 82 2×4</text>
+    <text x="0" y="84" class="s">Finished height: 3½3 each</text>
+    <text x="0" y="102" class="s">Qty: 2 platforms (L + R)</text>
+  </g>
+</svg>
