@@ -8,6 +8,11 @@ Project docs for framing existing furniture into a built-in home entertainment c
 **Layout:** Centered 119″ carcass group, ~20⅛″ open flanks, scribe + face skin (no between-unit fillers)  
 **Stack:** Side-only **3½″** risers (2×4 on edge) → **¾″** side counters → side top **34¼″** AFF (~**4¼″** step vs center)
 
+## Download the PDF
+
+**[→ Path-A-Build-Manual.pdf](./manual/Path-A-Build-Manual.pdf)** — color build & install manual (7 pages).  
+Cut lists + diagrams: [build-guides/](./build-guides/). How-to: [manual/README.md](./manual/README.md).
+
 ## What's in this folder
 
 | Document | Purpose |
